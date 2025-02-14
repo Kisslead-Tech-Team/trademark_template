@@ -89,23 +89,29 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                         <div class="contact-one_title-column col-lg-6 col-md-12 col-sm-12">
                             <div class="sec-title">
                                 <div class="sec-title_title">CONTACT DETAILS</div>
-\                            
+                           
                             </div>
                             <ul class="contact-one_list">
                                 <li>
                                     <i class="fa-solid fa-location-dot fa-fw"></i>
                                     Address
-                                    <strong >247-2, Palaniammal Complex, 1st Floor, Opp to Aanandham Hotel, Pollachi Main Road, Sundarapuram, Coimbatore, <span style="white-space: nowrap;">641 024</span></strong>
+                                    <strong >247-3, Palaniammal Complex, 1st Floor, Opp to Aanandham Hotel, Pollachi Main Road, Sundarapuram, Coimbatore - <span style="white-space: nowrap;">641 024</span>, Tamil Nadu, India.</strong>
                                 </li>
                                 <li>
                                     <i class="fa-solid fa-phone fa-fw"></i>
                                     Phone
-                                    <strong>0422 2677111, 4279005</strong>
+                                    <strong>98426 26444,  99650 90333</strong>
+                                </li>
+                                <li>
+                                <i class="fa-solid fa-fax fa-fw"></i>
+
+                                    Landline
+                                    <strong>0422 2677111</strong>
                                 </li>
                                 <li>
                                     <i class="fa-solid fa-envelope fa-fw"></i>
                                     Email
-                                    <strong><a href="mailto:trueandtrade@gmail.com"><span >trueandtrade@gmail.com</span></a></strong>
+                                    <strong><a href="mailto:trueandtrademd@gmail.com"><span >trueandtrademd@gmail.com</span></a></strong>
 
 
                                 </li>

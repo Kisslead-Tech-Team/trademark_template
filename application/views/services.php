@@ -72,20 +72,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 					</div>
 				</div>
 
-				<!-- Service Block Three -->
-				<div class="service-block_three style-two col-lg-4 col-md-6 col-sm-12">
-					<div class="service-block_three-inner wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
-						<div class="service-block_three-image">
-							<a href="<?php echo base_url(); ?>patent-registration"><img src="assets/images/resource/small/patent.jpg" alt="" /></a>
-						</div>
-						<div class="service-block_three-content">
-							<div class="service-block_three-icon icon-controlxpert_svgrepocom-3"></div>
-							<h3 class="service-block_three-heading"><a href="<?php echo base_url(); ?>patent-registration">Patent Registration</a></h3>
-							<div class="service-block_three-text">Patent registration grants exclusive rights to an inventor for their invention, preventing others from making, using, or selling it without permission.</div>
-							<a class="service-block_three-more" href="<?php echo base_url(); ?>patent-registration">Know More <i class="fa-solid fa-angle-right fa-fw"></i></a>
-						</div>
-					</div>
-				</div>
 
 				<!-- Service Block Three -->
 				<div class="service-block_three style-two col-lg-4 col-md-6 col-sm-12">
@@ -98,6 +84,23 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 							<h3 class="service-block_three-heading"><a href="<?php echo base_url(); ?>copyright-registration">Copyright Registration</a></h3>
 							<div class="service-block_three-text">Copyright registration provides legal protection for original works, granting the creator exclusive rights to reproduce, distribute, and display them.</div>
 							<a class="service-block_three-more" href="<?php echo base_url(); ?>copyright-registration">Know More <i class="fa-solid fa-angle-right fa-fw"></i></a>
+						</div>
+					</div>
+				</div>
+
+
+				
+				<!-- Service Block Three -->
+				<div class="service-block_three style-two col-lg-4 col-md-6 col-sm-12">
+					<div class="service-block_three-inner wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
+						<div class="service-block_three-image">
+							<a href="<?php echo base_url(); ?>patent-registration"><img src="assets/images/resource/small/patent.jpg" alt="" /></a>
+						</div>
+						<div class="service-block_three-content">
+							<div class="service-block_three-icon icon-controlxpert_svgrepocom-3"></div>
+							<h3 class="service-block_three-heading"><a href="<?php echo base_url(); ?>patent-registration">Patent Registration</a></h3>
+							<div class="service-block_three-text">Patent registration grants exclusive rights to an inventor for their invention, preventing others from making, using, or selling it without permission.</div>
+							<a class="service-block_three-more" href="<?php echo base_url(); ?>patent-registration">Know More <i class="fa-solid fa-angle-right fa-fw"></i></a>
 						</div>
 					</div>
 				</div>

@@ -1,9 +1,13 @@
 <?php
    $active = basename($_SERVER['PHP_SELF']); //get active page from url
+
 ?>
 
 <!-- Main Header -->
 <header class="main-header">
+
+
+
 
     <!-- Header Top -->
     <div class="header-top">
@@ -13,17 +17,16 @@
                     <div class="left-box d-flex align-items-center flex-wrap">
                         <!-- Info List -->
                         <ul class="header-top_list">
-                            <li><span class="icon"><img src="assets/images/icons/map.svg" alt="" /></span>Find Us Now!
-                            </li>
-                            <li><span class="icon"><img src="assets/images/icons/phone.svg" alt="" /></span>0422 2677111, 4279005</li>
+                        <li><span class="icon"><img src="assets/images/icons/map.svg" alt="" /></span><a
+                        href="<?php echo base_url(); ?>contact">Find Us Now!</a></li>
+                            <li><span class="icon"><img src="assets/images/icons/phone.svg" alt="" /></span>98426 26444,  99650 90333</li>
                         </ul>
                     </div>
                     <div class="header-social_box">
                         <span>Follow us:</span>
-                        <a class="fa-brands fa-facebook-f fa-fw" href="https://www.facebook.com/"></a>
-                        <a class="fa-brands fa-instagram fa-fw" href="https://www.instagram.com/"></a>
-                        <a class="fa-brands fa-linkedin-in fa-fw" href="https://www.linkedin.com/"></a>
-                        <a class="fa-brands fa-youtube fa-fw" href="https://www.youtube.com/"></a>
+                        <a class="fa-brands fa-facebook-f fa-fw" target="_blank" href="https://www.facebook.com/share/19n9rqcrrL/"></a>
+                        <a class="fa-brands fa-instagram fa-fw" target="_blank" href="https://www.instagram.com/trueandtrade?igsh=bTdxYm9yMDl3aWN2"></a>
+                        <a class="fa-brands fa-linkedin-in fa-fw" target="_blank" href="https://www.linkedin.com/company/true-trade-associates/"></a>
                     </div>
                 </div>
             </div>
@@ -36,11 +39,10 @@
             <div class="inner-container">
                 <div class="d-flex justify-content-between align-items-center flex-wrap">
 
-                    <div class="logo-box d-flex align-items-center flex-wrap">
-                        <div class="logo"><a href="<?php echo base_url(); ?>"><img src="assets/images/logo.png" alt="" title=""></a>
+                <div class="logo-box">
+                            <div class="logo"><a href="<?php echo base_url(); ?>"><img src="assets/images/logo-home.png" alt=""
+                                        title="" class="home-logo-custom"></a></div>
                         </div>
-
-                    </div>
 
                     <div class="nav-outer d-flex flex-wrap">
                         <!-- Main Menu -->
@@ -67,10 +69,12 @@
                                         <ul>
                                             <li><a href="<?php echo base_url(); ?>trademark-registration">Trademark
                                                     Registration</a></li>
+
+                                                    <li><a href="<?php echo base_url(); ?>copyright-registration">Copyright
+                                                    Registration</a></li>
                                             <li><a href="<?php echo base_url(); ?>patent-registration">Patent
                                                     Registration</a></li>
-                                            <li><a href="<?php echo base_url(); ?>copyright-registration">Copyright
-                                                    Registration</a></li>
+                                     
                                             <li><a href="<?php echo base_url(); ?>design-registration">Design
                                                     Registration</a></li>
                                             <li class="dropdown"><a href="<?php echo base_url(); ?>services">Other
@@ -125,8 +129,15 @@
 
                 </div>
             </div>
+
+            <div class="marquee-container overflow-hidden ">
+  <div class="marquee-content d-flex align-items-center ">
+   <p><?php echo $scroll[0]["content"]; ?></p>
+  </div>
+</div>
         </div>
     </div>
+
     <!--End Header Upper-->
 
     <!-- Mobile Menu  -->
@@ -144,4 +155,5 @@
     <!-- End Mobile Menu -->
 
 </header>
+
 <!-- End Main Header -->

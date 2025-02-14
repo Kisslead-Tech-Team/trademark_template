@@ -76,7 +76,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 							<!-- Content Column -->
 							<div class="slider-one_content col-lg-6 col-md-12 col-sm-12">
 								<div class="slider-one_content-inner">
-									<h1 class="slider-one_heading"><span>Unveiling</span> Patents, Trademarks & Copyrights</h1>
+									<h1 class="slider-one_heading"><span>Trademark, </span>Copyright, Patent and Design Registration</h1>
 									<div class="slider-one_text">Understanding the unique roles of patents, trademarks, and copyrights in protecting intellectual property.</div>
 									<div class="slider-one_button">
 										<a href="<?php echo base_url(); ?>contact" class="theme-btn btn-style-one">
@@ -114,9 +114,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 			<!-- Slider One Info -->
 		
 			<!-- Scroll Down -->
-			<div class="slider-one_scroll-down scroll-to-target" data-target=".services-one">
+			<!-- <div class="slider-one_scroll-down scroll-to-target" data-target=".services-one">
 				<img src="assets/images/main-slider/scroll-down.png" alt="" />
-			</div>
+			</div> -->
 		</div>
 	</section>
 	<!-- End Main Slider Section -->
@@ -147,6 +147,21 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 						</div>
 					</div>
 
+						<!-- Slide -->
+						<div class="swiper-slide">
+						<!-- Service Block One -->
+						<div class="service-block_one">
+							<div class="service-block_one-inner">
+								<div class="service-block_one-hover"></div>
+								<div class="service-block_one_pattern" style="background-image:url(assets/images/background/service-one_pattern.png)"></div>
+								<div class="service-block_one-background"></div>
+								<div class="service-block_one-icon icon-controlxpert_svgrepocom-2"></div>
+								<h4 class="service-block_one-heading"><a href="<?php echo base_url(); ?>copyright-registration">Copyright Registration</a></h4>
+								<div class="service-block_one-text">Copyright registration provides legal protection for original works, granting creators exclusive rights to reproduce, distribute, and display their work.</div>
+							</div>
+						</div>
+					</div>
+
 					<!-- Slide -->
 					<div class="swiper-slide">
 						<!-- Service Block One -->
@@ -162,20 +177,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 						</div>
 					</div>
 	
-					<!-- Slide -->
-					<div class="swiper-slide">
-						<!-- Service Block One -->
-						<div class="service-block_one">
-							<div class="service-block_one-inner">
-								<div class="service-block_one-hover"></div>
-								<div class="service-block_one_pattern" style="background-image:url(assets/images/background/service-one_pattern.png)"></div>
-								<div class="service-block_one-background"></div>
-								<div class="service-block_one-icon icon-controlxpert_svgrepocom-2"></div>
-								<h4 class="service-block_one-heading"><a href="<?php echo base_url(); ?>copyright-registration">Copyright Registration</a></h4>
-								<div class="service-block_one-text">Copyright registration provides legal protection for original works, granting creators exclusive rights to reproduce, distribute, and display their work.</div>
-							</div>
-						</div>
-					</div>
+				
 
 				</div>
 				<!-- Slider One Arrows -->
@@ -191,566 +193,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	</section>
 	<!-- End Services One -->
 
-	<!-- About One -->
-	<section class="about-one">
-		<div class="auto-container">
-			<div class="row clearfix">
 
-				<!-- Title Column -->
-				<div class="about-one_title-column col-lg-5 col-md-12 col-sm-12">
-					<div class="about-one_title-outer">
-						<div class="sec-title title-anim">
-							<div class="sec-title_title">about us</div>
-							<h2 class="sec-title_heading">Our Story in Intellectual Property</h2>
-							<div class="sec-title_text">Established in 2006, True and Trade Associates started as a small consultancy and has evolved into one of the leading Intellectual Property firms in and around Coimbatore.</div>
-						</div>
-						<ul class="about-one_list">
-							<li><i class="fa-solid fa-circle-check fa-fw"></i>Expertise in Patent Protection</li>
-							<li><i class="fa-solid fa-circle-check fa-fw"></i>Commitment to Excellence</li>
-							<li><i class="fa-solid fa-circle-check fa-fw"></i>Collaborative Partnership</li>
-						</ul>
-						<div class="about-one_button">
-							<a href="<?php echo base_url(); ?>about" class="theme-btn btn-style-one">
-								<span class="btn-wrap">
-									<span class="text-one">Find Out More <i class="fa-solid fa-angle-right fa-fw"></i></span>
-									<span class="text-two">Find Out More <i class="fa-solid fa-angle-right fa-fw"></i></span>
-								</span>
-							</a>
-						</div>
-					</div>
-				</div>
-
-				<!-- Content Column -->
-				<div class="about-one_content-column col-lg-7 col-md-12 col-sm-12">
-					<div class="about-one_content-outer">
-						<div class="about-one_experiance" data-parallax='{"y" : 40}'>
-							<span class="odometer" data-count="17"></span><i>+</i>
-							<div class="about-one_experiance-text">Years of Experiences</div>
-						</div>
-						<div class="row clearfix">
-							<!-- Column -->
-							<div class="column col-lg-8 col-md-8 col-sm-8">
-								<div class="about-one_image skewElem">
-									<img src="assets/images/resource/about-1.jpg" alt="" />
-								</div>
-							</div>
-							<!-- Column -->
-							<div class="column col-lg-4 col-md-4 col-sm-4">
-								<!-- About One Counter Count -->
-						
-								<!-- About One Counter Count -->
-								<div class="about-one_counter-count">
-									<span class="odometer" data-count="6500"></span><i>+</i>
-									<h5 class="about-one_counter-heading">Happy Customers</h5>
-									<div class="about-one_counter-text">We prioritize our clients' success, ensuring personalized support and expert guidance every step of the way.
-
-</div>
-								</div>
-								<!-- About One Counter Count -->
-								<div class="about-one_counter-count">
-									<span class="odometer" data-count="99"></span><i>%</i>
-									<h5 class="about-one_counter-heading">Case Success Rate</h5>
-									<div class="about-one_counter-text">With vast experience across various industries, we provide tailored solutions to meet each client's unique needs.</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-
-			</div>
-		</div>
-	</section>
-	<!-- End About One -->
-
-	<!-- Services Two -->
-	<section class="services-two">
-		<div class="auto-container">
-			<div class="sec-title light centered">
-				<div class="sec-title_title title-anim">practice area</div>
-				<h2 class="sec-title_heading">Explore Creative Legal <br> <span>Protections</span></h2>
-			</div>
-			<div class="row clearfix">
-
-				<!-- Service Block Two -->
-				<div class="service-block_two col-lg-4 col-md-6 col-sm-12">
-					<div class="service-block_two-inner wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
-						<div class="service-block_two-image" style="background-image:url(assets/images/resource/small/trademark.jpg"></div>
-						<div class="upper-box">
-							<div class="d-flex justify-content-between flex-wrap">
-								<div class="service-block_two-number">01</div>
-								<div class="service-block_two-icon icon-Frame"></div>
-							</div>
-							<h4 class="service-block_two-heading"><a href="<?php echo base_url(); ?>trademark-registration">Trademark Registration</a></h4>
-							<div class="service-block_two-text">Trademark registration legally protects a brand's name, logo, or symbol, granting exclusive rights and preventing unauthorized use.</div>
-						</div>
-						<div class="lower-box">
-							<div class="d-flex justify-content-between align-items-center flex-wrap">
-								<a class="service-block_two-arrow icon-Frame" href="<?php echo base_url(); ?>trademark-registration"></a>
-								<a class="service-block_two-more" href="<?php echo base_url(); ?>trademark-registration">Know More</a>
-							</div>
-						</div>
-					</div>
-				</div>
-
-				<!-- Service Block Two -->
-				<div class="service-block_two col-lg-4 col-md-6 col-sm-12">
-					<div class="service-block_two-inner wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
-						<div class="service-block_two-image" style="background-image:url(assets/images/resource/small/patent.jpg)"></div>
-						<div class="upper-box">
-							<div class="d-flex justify-content-between flex-wrap">
-								<div class="service-block_two-number">02</div>
-								<div class="service-block_two-icon icon-controlxpert_svgrepocom-3"></div>
-							</div>
-							<h4 class="service-block_two-heading"><a href="<?php echo base_url(); ?>patent-registration">Patent Registration</a></h4>
-							<div class="service-block_two-text">Patent registration grants exclusive rights to an inventor for their invention, preventing others from making, using, or selling it without permission.</div>
-						</div>
-						<div class="lower-box">
-							<div class="d-flex justify-content-between align-items-center flex-wrap">
-								<a class="service-block_two-arrow icon-controlxpert_svgrepocom-3" href="<?php echo base_url(); ?>patent-registration"></a>
-								<a class="service-block_two-more" href="<?php echo base_url(); ?>patent-registration">Know More</a>
-							</div>
-						</div>
-					</div>
-				</div>
-
-				<!-- Service Block Two -->
-				<div class="service-block_two col-lg-4 col-md-6 col-sm-12">
-					<div class="service-block_two-inner wow fadeInRight" data-wow-delay="0ms" data-wow-duration="1500ms">
-						<div class="service-block_two-image" style="background-image:url(assets/images/resource/small/copyright.jpg)"></div>
-						<div class="upper-box">
-							<div class="d-flex justify-content-between flex-wrap">
-								<div class="service-block_two-number">03</div>
-								<div class="service-block_two-icon icon-controlxpert_svgrepocom-4"></div>
-							</div>
-							<h4 class="service-block_two-heading"><a href="<?php echo base_url(); ?>copyright-registration">Copyright Registration</a></h4>
-							<div class="service-block_two-text">Copyright registration provides legal protection for original works, granting the creator exclusive rights to reproduce, distribute, and display them.</div>
-						</div>
-						<div class="lower-box">
-							<div class="d-flex justify-content-between align-items-center flex-wrap">
-								<a class="service-block_two-arrow icon-controlxpert_svgrepocom-4" href="<?php echo base_url(); ?>copyright-registration"></a>
-								<a class="service-block_two-more" href="<?php echo base_url(); ?>copyright-registration">Know More</a>
-							</div>
-						</div>
-					</div>
-				</div>
-
-				<!-- Service Block Two -->
-				<div class="service-block_two col-lg-4 col-md-6 col-sm-12">
-					<div class="service-block_two-inner wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
-						<div class="service-block_two-image" style="background-image:url(assets/images/resource/small/design.jpg)"></div>
-						<div class="upper-box">
-							<div class="d-flex justify-content-between flex-wrap">
-								<div class="service-block_two-number">04</div>
-								<div class="service-block_two-icon icon-Frameee"></div>
-							</div>
-							<h4 class="service-block_two-heading"><a href="<?php echo base_url(); ?>design-registration">Design Registration</a></h4>
-							<div class="service-block_two-text">Design registration protects the unique visual design of a product, granting exclusive rights to the creator and preventing unauthorized copying or use.</div>
-						</div>
-						<div class="lower-box">
-							<div class="d-flex justify-content-between align-items-center flex-wrap">
-								<a class="service-block_two-arrow icon-Frameee" href="<?php echo base_url(); ?>design-registration"></a>
-								<a class="service-block_two-more" href="<?php echo base_url(); ?>design-registration">Know More</a>
-							</div>
-						</div>
-					</div>
-				</div>
-
-				<!-- Service Block Two -->
-				<div class="service-block_two col-lg-4 col-md-6 col-sm-12">
-					<div class="service-block_two-inner wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
-						<div class="service-block_two-image" style="background-image:url(assets/images/resource/small/international.jpg)"></div>
-						<div class="upper-box">
-							<div class="d-flex justify-content-between flex-wrap">
-								<div class="service-block_two-number">05</div>
-								<div class="service-block_two-icon icon-controlxpert_svgrepocom-6"></div>
-							</div>
-							<h4 class="service-block_two-heading"><a href="<?php echo base_url(); ?>international-trademark-registration">International TM Registration</a></h4>
-							<div class="service-block_two-text">International trademark registration safeguards a trademark across multiple countries through a single application, simplifying global protection.</div>
-						</div>
-						<div class="lower-box">
-							<div class="d-flex justify-content-between align-items-center flex-wrap">
-								<a class="service-block_two-arrow icon-controlxpert_svgrepocom-6" href="<?php echo base_url(); ?>international-trademark-registration"></a>
-								<a class="service-block_two-more" href="<?php echo base_url(); ?>international-trademark-registration">Know More</a>
-							</div>
-						</div>
-					</div>
-				</div>
-
-				<!-- Service Block Two -->
-				<div class="service-block_two col-lg-4 col-md-6 col-sm-12">
-					<div class="service-block_two-inner wow fadeInRight" data-wow-delay="0ms" data-wow-duration="1500ms">
-						<div class="service-block_two-image" style="background-image:url(assets/images/resource/small/udyam.jpg)"></div>
-						<div class="upper-box">
-							<div class="d-flex justify-content-between flex-wrap">
-								<div class="service-block_two-number">06</div>
-								<div class="service-block_two-icon icon-controlxpert_svgrepocom-7"></div>
-							</div>
-							<h4 class="service-block_two-heading"><a href="<?php echo base_url(); ?>msme-registration">MSME Registration</a></h4>
-							<div class="service-block_two-text">MSME registration recognizes small and medium enterprises, providing access to government schemes, benefits, and financial support.</div>
-						</div>
-						<div class="lower-box">
-							<div class="d-flex justify-content-between align-items-center flex-wrap">
-								<a class="service-block_two-arrow icon-controlxpert_svgrepocom-7" href="<?php echo base_url(); ?>msme-registration"></a>
-								<a class="service-block_two-more" href="<?php echo base_url(); ?>msme-registration">Know More</a>
-							</div>
-						</div>
-					</div>
-				</div>
-
-			</div>
-
-			<div class="service-one_button text-center">
-				<a href="<?php echo base_url(); ?>services" class="theme-btn btn-style-one">
-					<span class="btn-wrap">
-						<span class="text-one">Find Out More <i class="fa-solid fa-angle-right fa-fw"></i></span>
-						<span class="text-two">Find Out More <i class="fa-solid fa-angle-right fa-fw"></i></span>
-					</span>
-				</a>
-			</div>
-
-		</div>
-	</section>
-	<!-- End Services Two -->
-
-	<!-- Testimonial One -->
-	<section class="testimonial-one">
-		<div class="auto-container">
-			<div class="testimonial-one_carousel swiper-container">
-				<div class="swiper-wrapper">
-	
-					<!-- Slide -->
-					<div class="swiper-slide">
-						<!-- Testimonial Block One -->
-						<div class="testimonial-block_one">
-							<div class="testimonial-block_one-inner">
-								<div class="row clearfix">
-									
-									<!-- Image Column -->
-									<div class="testimonial-block_one-image-column col-lg-4 col-md-4 col-sm-12">
-										<div class="testimonial-block_one-image-outer">
-											<div class="testimonial-block_one-image">
-												<div class="testimonial-block_one-quote fa-solid fa-quote-left fa-fw"></div>
-												<img src="assets/images/resource/testimonial-1.jpg" alt="" />
-											</div>
-										</div>
-									</div>
-
-									<!-- Content Column -->
-									<div class="testimonial-block_one-content-column col-lg-8 col-md-8 col-sm-12">
-										<div class="testimonial-block_one-content-outer">
-											<div class="testimonial-block_one-rating">
-												<span class="fa fa-star"></span>
-												<span class="fa fa-star"></span>
-												<span class="fa fa-star"></span>
-												<span class="fa fa-star"></span>
-												<span class="fa fa-star"></span>
-											</div>
-											<div class="testimonial-block_one-text">I recommend TRUEANDTRADE. Very professional s and easy for me Company Registration, GST Registration & Trademark Registration services. I thanks Mrs Mangayarkarasi C, is Well-Coordinated, On time response, Excellence services in advising customer for processing requirements. She made it easy for me. Thanks.</div>
-											<div class="testimonial-block_one-author">
-												Rajendra
-											</div>
-										</div>
-									</div>
-
-								</div>
-							</div>
-						</div>
-					</div>
-
-
-
-						<!-- Slide -->
-						<div class="swiper-slide">
-						<!-- Testimonial Block One -->
-						<div class="testimonial-block_one">
-							<div class="testimonial-block_one-inner">
-								<div class="row clearfix">
-									
-									<!-- Image Column -->
-									<div class="testimonial-block_one-image-column col-lg-4 col-md-4 col-sm-12">
-										<div class="testimonial-block_one-image-outer">
-											<div class="testimonial-block_one-image">
-												<div class="testimonial-block_one-quote fa-solid fa-quote-left fa-fw"></div>
-												<img src="assets/images/resource/testimonial-2.jpg" alt="" />
-											</div>
-										</div>
-									</div>
-
-									<!-- Content Column -->
-									<div class="testimonial-block_one-content-column col-lg-8 col-md-8 col-sm-12">
-										<div class="testimonial-block_one-content-outer">
-											<div class="testimonial-block_one-rating">
-												<span class="fa fa-star"></span>
-												<span class="fa fa-star"></span>
-												<span class="fa fa-star"></span>
-												<span class="fa fa-star"></span>
-												<span class="fa fa-star"></span>
-											</div>
-											<div class="testimonial-block_one-text">I recently contacted TrueandTrade for trademark registration process and I got to work with Mrs Mangayarkarasi C. She was really professional and kind and explained me everything in detail. I had to do no work at all because he and TrueandTrade took care of everything. They provide really nice services.</div>
-											<div class="testimonial-block_one-author">
-											Ishita Bhattacharya
-											</div>
-										</div>
-									</div>
-
-								</div>
-							</div>
-						</div>
-					</div>
-	<!-- Slide -->
-	<div class="swiper-slide">
-						<!-- Testimonial Block One -->
-						<div class="testimonial-block_one">
-							<div class="testimonial-block_one-inner">
-								<div class="row clearfix">
-									
-									<!-- Image Column -->
-									<div class="testimonial-block_one-image-column col-lg-4 col-md-4 col-sm-12">
-										<div class="testimonial-block_one-image-outer">
-											<div class="testimonial-block_one-image">
-												<div class="testimonial-block_one-quote fa-solid fa-quote-left fa-fw"></div>
-												<img src="assets/images/resource/testimonial-1.jpg" alt="" />
-											</div>
-										</div>
-									</div>
-
-									<!-- Content Column -->
-									<div class="testimonial-block_one-content-column col-lg-8 col-md-8 col-sm-12">
-										<div class="testimonial-block_one-content-outer">
-											<div class="testimonial-block_one-rating">
-												<span class="fa fa-star"></span>
-												<span class="fa fa-star"></span>
-												<span class="fa fa-star"></span>
-												<span class="fa fa-star"></span>
-												<span class="fa fa-star"></span>
-											</div>
-											<div class="testimonial-block_one-text">I Highly recommend Trueandtrade. Very professional organization and they take care of customer requirements with excellence. Happy with Mangayarkarasi C who managed my account and got our trademark process completed without any problem. Thanks👍</div>
-											<div class="testimonial-block_one-author">
-												
-Sanjay Gurnule
-											</div>
-										</div>
-									</div>
-
-								</div>
-							</div>
-						</div>
-					</div>
-			
-
-				</div>
-
-				<!-- Testimonial One Arrows -->
-				<div class="testimonial-one-arrow">
-					<div class="testimonial-one_carousel-pagination"></div>
-					<!-- If we need navigation buttons -->
-					<div class="testimonial-one_carousel-prev fa-solid fa-angle-left fa-fw"></div>
-					<div class="testimonial-one_carousel-next fa-solid fa-angle-right fa-fw"></div>
-				</div>
-
-			</div>
-			
-		</div>
-	</section>
-	<!-- End Testimonial One -->
-
-	<!-- Team One -->
-	<section class="team-one">
-		<div class="auto-container">
-			<div class="sec-title">
-				<div class="d-flex justify-content-between align-items-center flex-wrap">
-					<div class="left-box title-anim">
-						<div class="sec-title_title">our team</div>
-						<h2 class="sec-title_heading">expert team members</h2>
-					</div>
-					<div class="team-one_button title-anim">
-						<a href="<?php echo base_url(); ?>about" class="theme-btn btn-style-one">
-							<span class="btn-wrap">
-								<span class="text-one">Find Out More <i class="fa-solid fa-angle-right fa-fw"></i></span>
-								<span class="text-two">Find Out More <i class="fa-solid fa-angle-right fa-fw"></i></span>
-							</span>
-						</a>
-					</div>
-				</div>
-			</div>
-			<div class="team-one_carousel swiper-container">
-				<div class="swiper-wrapper">
-	
-					<!-- Slide -->
-					<div class="swiper-slide">
-						<!-- Team Block One -->
-						<div class="team-block_one">
-							<div class="team-block_one-inner">
-								<div class="team-block_one-image">
-									<img src="assets/images/resource/team-1.jpg" alt="" />
-								</div>
-								<div class="team-block_one-content">
-									<h4 class="team-block_one-heading">Marget M. Hason</h4>
-									<div class="team-block_one-designation">Patent Lawyer</div>
-
-								</div>
-							</div>
-						</div>
-					</div>
-
-					<!-- Slide -->
-					<div class="swiper-slide">
-						<!-- Team Block One -->
-						<div class="team-block_one">
-							<div class="team-block_one-inner">
-								<div class="team-block_one-image">
-									<img src="assets/images/resource/team-2.jpg" alt="" />
-								</div>
-								<div class="team-block_one-content">
-									<h4 class="team-block_one-heading">Evan S. Sherman</h4>
-									<div class="team-block_one-designation">Trademark Lawyer</div>
-									
-								</div>
-							</div>
-						</div>
-					</div>
-
-					<!-- Slide -->
-					<div class="swiper-slide">
-						<!-- Team Block One -->
-						<div class="team-block_one">
-							<div class="team-block_one-inner">
-								<div class="team-block_one-image">
-									<img src="assets/images/resource/team-3.jpg" alt="" />
-								</div>
-								<div class="team-block_one-content">
-									<h4 class="team-block_one-heading">Evan S. Sherman</h4>
-									<div class="team-block_one-designation">Copyright Lawyer</div>
-									
-								</div>
-							</div>
-						</div>
-					</div>
-
-				</div>
-
-				<!-- Team One Arrows -->
-				<div class="team-one-arrow">
-					<!-- If we need navigation buttons -->
-					<div class="team-one_carousel-prev fa-solid fa-angle-left fa-fw"></div>
-					<div class="team-one_carousel-next fa-solid fa-angle-right fa-fw"></div>
-				</div>
-				<div class="team-one_carousel-pagination"></div>
-
-			</div>
-
-		</div>
-	</section>
-	<!-- End Team One -->
-
-	<!-- Fluid One -->
-	<section class="fluid-one">
-		<div class="fluid-one_curve"></div>
-		<div class="fluid-one_curve-two"></div>
-		<div class="auto-container">
-			<div class="clearfix">
-				<!-- Left Column -->
-				<div class="left-column clearfix">
-					<div class="inner-column">
-						<div class="fluid-one_pattern"></div>
-						<!-- Sec Title -->
-						<div class="sec-title light title-anim">
-							<div class="sec-title_title">contact us</div>
-							<h2 class="sec-title_heading">Get a Free Quote</h2>
-						</div>
-
-						<div class="default-form">
-						<form method="post" method="POST" action="<?php echo base_url(); ?>welcome/send_mail" >
-								<div class="row clearfix">
-									<!--Form Group-->
-									<div class="form-group col-lg-6 col-md-6 col-sm-6">
-										<input type="text" name="name" value="" placeholder="Name" required>
-									</div>
-									<!--Form Group-->
-									<div class="form-group col-lg-6 col-md-6 col-sm-6">
-										<input type="email" name="email" value="" placeholder="Email" required>
-									</div>
-									<div class="form-group col-lg-6 col-md-6 col-sm-6">
-										<input type="text" name="number" value="" placeholder="Phone" required>
-									</div>
-									<!--Form Group-->
-									<div class="form-group col-lg-6 col-md-6 col-sm-6">
-										<input type="text" name="service" value="" placeholder="Service" required>
-									</div>
-
-									<div class="col-lg-12 col-md-12 col-sm-12 form-group">
-										<textarea class="" name="message" placeholder="Write a Message"></textarea>
-									</div>
-
-									<div class="form-group col-lg-6 col-md-6 col-sm-6">
-                                                <input type="hidden" name="active" value="<?php echo $active; ?>" >
-                                            </div>
-									<div class="form-group col-lg-12 col-md-12 col-sm-12">
-								
-										<input class="theme-btn btn-style-one" value="SUBMIT MESSAGE" name="submit"  title="Click here to submit your message !" type="submit">
-
-									</div>
-									
-								</div>
-							</form>
-						</div>
-
-					</div>
-				</div>
-				<!-- Right Column -->
-				<div class="right-column clearfix">
-					<div class="inner-column">
-						<div class="sec-title title-anim">
-							<div class="sec-title_title">General questions</div>
-							<h2 class="sec-title_heading">Frequently Asked Question.</h2>
-							<div class="sec-title_text">We are a team of dedicated patent professional united by our commitment to excellence.</div>
-						</div>
-
-						<!-- Accordion Box -->
-						<ul class="accordion-box">
-							
-							<!-- Block -->
-							<li class="accordion block active-block">
-								<div class="acc-btn active"><div class="icon-outer"><span class="icon fa-solid fa-angle-down fa-fw"></span></div>Q: What is a trademark?</div>
-								<div class="acc-content current">
-									<div class="content">
-										<p>A trademark is a distinctive marker that distinguishes products or services from competitors. It can include symbols, designs, expressions, or identifiable features associated with a specific brand.</p>
-									</div>
-								</div>
-							</li>
-										
-							<!-- Block -->
-							<li class="accordion block">
-								<div class="acc-btn"><div class="icon-outer"><span class="icon fa-solid fa-angle-down fa-fw"></span></div>Q: What is a Patent?</div>
-								<div class="acc-content">
-									<div class="content">
-										<p>A patent is a legal document granting exclusive rights to inventors to protect their innovations, preventing others from using, selling, or making the invention without permission.</p>
-									</div>
-								</div>
-							</li>
-
-							<!-- Block -->
-							<li class="accordion block">
-								<div class="acc-btn"><div class="icon-outer"><span class="icon fa-solid fa-angle-down fa-fw"></span></div>Q: What is the difference between Copyright registration and trademark registration?</div>
-								<div class="acc-content">
-									<div class="content">
-										<p>Trademark registration protects the brand name, logo the slogan whereas copyright protection is provided to literary works, music, videos, slogans, and artistic contents.</p>
-									</div>
-								</div>
-							</li>
-
-						</ul>
-
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-	<!-- End Fluid One -->
-
-
-	<!-- Clients One -->
-	<section class="clients-one ">
+		<!-- Clients One -->
+		<section class="clients-one ">
 		<div class="auto-container">
 			<div class="clients-one_slider swiper-container">
 				<div class="swiper-wrapper">
@@ -896,8 +341,344 @@ Sanjay Gurnule
 	</section>
 	<!-- Clients One -->
 
+
+	<!-- About One -->
+	<section class="about-one">
+		<div class="auto-container">
+			<div class="row clearfix">
+
+				<!-- Title Column -->
+				<div class="about-one_title-column col-lg-5 col-md-12 col-sm-12">
+					<div class="about-one_title-outer">
+						<div class="sec-title title-anim">
+							<div class="sec-title_title">about us</div>
+							<h2 class="sec-title_heading">Our Story in Intellectual Property</h2>
+							<div class="sec-title_text">Established in 2006, True and Trade Associates began as a small consultancy firm. Today, we
+have grown into one of the leading intellectual property consultant firms in and around Coimbatore.</div>
+						</div>
+						<ul class="about-one_list">
+							<li><i class="fa-solid fa-circle-check fa-fw"></i>Commitment to excellence</li>
+							<li><i class="fa-solid fa-circle-check fa-fw"></i>Passion for protecting intellectual property</li>
+							<li><i class="fa-solid fa-circle-check fa-fw"></i>Tailored solutions for businesses of all sizes</li>
+						</ul>
+						<div class="about-one_button">
+							<a href="<?php echo base_url(); ?>about" class="theme-btn btn-style-one">
+								<span class="btn-wrap">
+									<span class="text-one">Find Out More <i class="fa-solid fa-angle-right fa-fw"></i></span>
+									<span class="text-two">Find Out More <i class="fa-solid fa-angle-right fa-fw"></i></span>
+								</span>
+							</a>
+						</div>
+					</div>
+				</div>
+
+				<!-- Content Column -->
+				<div class="about-one_content-column col-lg-7 col-md-12 col-sm-12">
+					<div class="about-one_content-outer">
+						<div class="about-one_experiance" data-parallax='{"y" : 40}'>
+							<span class="odometer" data-count="17"></span><i>+</i>
+							<div class="about-one_experiance-text">Years of Experiences</div>
+						</div>
+						<div class="row clearfix">
+							<!-- Column -->
+							<div class="column col-lg-8 col-md-8 col-sm-8">
+								<div class="about-one_image skewElem">
+									<img src="assets/images/resource/about-1.jpg" alt="" />
+								</div>
+							</div>
+							<!-- Column -->
+							<div class="column col-lg-4 col-md-4 col-sm-4">
+								<!-- About One Counter Count -->
+						
+								<!-- About One Counter Count -->
+								<div class="about-one_counter-count">
+									<span class="odometer" data-count="6500"></span><i>+</i>
+									<h5 class="about-one_counter-heading">Happy Customers</h5>
+									<div class="about-one_counter-text">We prioritize our clients' success, ensuring personalized support and expert guidance every step of the way.
+
+</div>
+								</div>
+								<!-- About One Counter Count -->
+								<div class="about-one_counter-count">
+									<span class="odometer" data-count="99"></span><i>%</i>
+									<h5 class="about-one_counter-heading">Case Success Rate</h5>
+									<div class="about-one_counter-text">With vast experience across various industries, we provide tailored solutions to meet each client's unique needs.</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</section>
+	<!-- End About One -->
+
+	<!-- Services Two -->
+	<section class="services-two">
+		<div class="auto-container">
+			<div class="sec-title light centered">
+				<div class="sec-title_title title-anim">practice area</div>
+				<h2 class="sec-title_heading">Explore Creative Legal <br> <span>Protections</span></h2>
+			</div>
+			<div class="row clearfix">
+
+				<!-- Service Block Two -->
+				<div class="service-block_two col-lg-4 col-md-6 col-sm-12">
+					<div class="service-block_two-inner wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
+						<div class="service-block_two-image" style="background-image:url(assets/images/resource/small/trademark.jpg"></div>
+						<div class="upper-box">
+							<div class="d-flex justify-content-between flex-wrap">
+								<div class="service-block_two-number">01</div>
+								<div class="service-block_two-icon icon-Frame"></div>
+							</div>
+							<h4 class="service-block_two-heading"><a href="<?php echo base_url(); ?>trademark-registration">Trademark Registration</a></h4>
+							<div class="service-block_two-text">Trademark registration legally protects a brand's name, logo, or symbol, granting exclusive rights and preventing unauthorized use.</div>
+						</div>
+						<div class="lower-box">
+							<div class="d-flex justify-content-between align-items-center flex-wrap">
+								<a class="service-block_two-arrow icon-Frame" href="<?php echo base_url(); ?>trademark-registration"></a>
+								<a class="service-block_two-more" href="<?php echo base_url(); ?>trademark-registration">Know More</a>
+							</div>
+						</div>
+					</div>
+				</div>
+
+
+						<!-- Service Block Two -->
+						<div class="service-block_two col-lg-4 col-md-6 col-sm-12">
+					<div class="service-block_two-inner wow fadeInRight" data-wow-delay="0ms" data-wow-duration="1500ms">
+						<div class="service-block_two-image" style="background-image:url(assets/images/resource/small/copyright.jpg)"></div>
+						<div class="upper-box">
+							<div class="d-flex justify-content-between flex-wrap">
+								<div class="service-block_two-number">02</div>
+								<div class="service-block_two-icon icon-controlxpert_svgrepocom-4"></div>
+							</div>
+							<h4 class="service-block_two-heading"><a href="<?php echo base_url(); ?>copyright-registration">Copyright Registration</a></h4>
+							<div class="service-block_two-text">Copyright registration provides legal protection for original works, granting the creator exclusive rights to reproduce, distribute, and display them.</div>
+						</div>
+						<div class="lower-box">
+							<div class="d-flex justify-content-between align-items-center flex-wrap">
+								<a class="service-block_two-arrow icon-controlxpert_svgrepocom-4" href="<?php echo base_url(); ?>copyright-registration"></a>
+								<a class="service-block_two-more" href="<?php echo base_url(); ?>copyright-registration">Know More</a>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<!-- Service Block Two -->
+				<div class="service-block_two col-lg-4 col-md-6 col-sm-12">
+					<div class="service-block_two-inner wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
+						<div class="service-block_two-image" style="background-image:url(assets/images/resource/small/patent.jpg)"></div>
+						<div class="upper-box">
+							<div class="d-flex justify-content-between flex-wrap">
+								<div class="service-block_two-number">03</div>
+								<div class="service-block_two-icon icon-controlxpert_svgrepocom-3"></div>
+							</div>
+							<h4 class="service-block_two-heading"><a href="<?php echo base_url(); ?>patent-registration">Patent Registration</a></h4>
+							<div class="service-block_two-text">Patent registration grants exclusive rights to an inventor for their invention, preventing others from making, using, or selling it without permission.</div>
+						</div>
+						<div class="lower-box">
+							<div class="d-flex justify-content-between align-items-center flex-wrap">
+								<a class="service-block_two-arrow icon-controlxpert_svgrepocom-3" href="<?php echo base_url(); ?>patent-registration"></a>
+								<a class="service-block_two-more" href="<?php echo base_url(); ?>patent-registration">Know More</a>
+							</div>
+						</div>
+					</div>
+				</div>
+
+		
+				<!-- Service Block Two -->
+				<div class="service-block_two col-lg-4 col-md-6 col-sm-12">
+					<div class="service-block_two-inner wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
+						<div class="service-block_two-image" style="background-image:url(assets/images/resource/small/design.jpg)"></div>
+						<div class="upper-box">
+							<div class="d-flex justify-content-between flex-wrap">
+								<div class="service-block_two-number">04</div>
+								<div class="service-block_two-icon icon-Frameee"></div>
+							</div>
+							<h4 class="service-block_two-heading"><a href="<?php echo base_url(); ?>design-registration">Design Registration</a></h4>
+							<div class="service-block_two-text">Design registration protects the unique visual design of a product, granting exclusive rights to the creator and preventing unauthorized copying or use.</div>
+						</div>
+						<div class="lower-box">
+							<div class="d-flex justify-content-between align-items-center flex-wrap">
+								<a class="service-block_two-arrow icon-Frameee" href="<?php echo base_url(); ?>design-registration"></a>
+								<a class="service-block_two-more" href="<?php echo base_url(); ?>design-registration">Know More</a>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<!-- Service Block Two -->
+				<div class="service-block_two col-lg-4 col-md-6 col-sm-12">
+					<div class="service-block_two-inner wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
+						<div class="service-block_two-image" style="background-image:url(assets/images/resource/small/international.jpg)"></div>
+						<div class="upper-box">
+							<div class="d-flex justify-content-between flex-wrap">
+								<div class="service-block_two-number">05</div>
+								<div class="service-block_two-icon icon-controlxpert_svgrepocom-6"></div>
+							</div>
+							<h4 class="service-block_two-heading"><a href="<?php echo base_url(); ?>international-trademark-registration">International TM Registration</a></h4>
+							<div class="service-block_two-text">International trademark registration safeguards a trademark across multiple countries through a single application, simplifying global protection.</div>
+						</div>
+						<div class="lower-box">
+							<div class="d-flex justify-content-between align-items-center flex-wrap">
+								<a class="service-block_two-arrow icon-controlxpert_svgrepocom-6" href="<?php echo base_url(); ?>international-trademark-registration"></a>
+								<a class="service-block_two-more" href="<?php echo base_url(); ?>international-trademark-registration">Know More</a>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<!-- Service Block Two -->
+				<div class="service-block_two col-lg-4 col-md-6 col-sm-12">
+					<div class="service-block_two-inner wow fadeInRight" data-wow-delay="0ms" data-wow-duration="1500ms">
+						<div class="service-block_two-image" style="background-image:url(assets/images/resource/small/udyam.jpg)"></div>
+						<div class="upper-box">
+							<div class="d-flex justify-content-between flex-wrap">
+								<div class="service-block_two-number">06</div>
+								<div class="service-block_two-icon icon-controlxpert_svgrepocom-7"></div>
+							</div>
+							<h4 class="service-block_two-heading"><a href="<?php echo base_url(); ?>msme-registration">MSME Registration</a></h4>
+							<div class="service-block_two-text">MSME registration recognizes small and medium enterprises, providing access to government schemes, benefits, and financial support.</div>
+						</div>
+						<div class="lower-box">
+							<div class="d-flex justify-content-between align-items-center flex-wrap">
+								<a class="service-block_two-arrow icon-controlxpert_svgrepocom-7" href="<?php echo base_url(); ?>msme-registration"></a>
+								<a class="service-block_two-more" href="<?php echo base_url(); ?>msme-registration">Know More</a>
+							</div>
+						</div>
+					</div>
+				</div>
+
+			</div>
+
+			<div class="service-one_button text-center">
+				<a href="<?php echo base_url(); ?>services" class="theme-btn btn-style-one">
+					<span class="btn-wrap">
+						<span class="text-one">Find Out More <i class="fa-solid fa-angle-right fa-fw"></i></span>
+						<span class="text-two">Find Out More <i class="fa-solid fa-angle-right fa-fw"></i></span>
+					</span>
+				</a>
+			</div>
+
+		</div>
+	</section>
+	<!-- End Services Two -->
+
+
+
+
+
+	<!-- Fluid One -->
+	 <div class="mt-5">
+	<section class="fluid-one my-5">
+		<div class="fluid-one_curve"></div>
+		<div class="fluid-one_curve-two"></div>
+		<div class="auto-container">
+			<div class="clearfix">
+				<!-- Left Column -->
+				<div class="left-column clearfix">
+					<div class="inner-column">
+						<div class="fluid-one_pattern"></div>
+						<!-- Sec Title -->
+						<div class="sec-title light title-anim">
+							<div class="sec-title_title">contact us</div>
+							<h2 class="sec-title_heading">Get a Free Quote</h2>
+						</div>
+
+						<div class="default-form">
+						<form method="post" method="POST" action="<?php echo base_url(); ?>welcome/send_mail" >
+								<div class="row clearfix">
+									<!--Form Group-->
+									<div class="form-group col-lg-6 col-md-6 col-sm-6">
+										<input type="text" name="name" value="" placeholder="Name" required>
+									</div>
+									<!--Form Group-->
+									<div class="form-group col-lg-6 col-md-6 col-sm-6">
+										<input type="email" name="email" value="" placeholder="Email" required>
+									</div>
+									<div class="form-group col-lg-6 col-md-6 col-sm-6">
+										<input type="text" name="number" value="" placeholder="Phone" required>
+									</div>
+									<!--Form Group-->
+									<div class="form-group col-lg-6 col-md-6 col-sm-6">
+										<input type="text" name="service" value="" placeholder="Service" required>
+									</div>
+
+									<div class="col-lg-12 col-md-12 col-sm-12 form-group">
+										<textarea class="" name="message" placeholder="Write a Message"></textarea>
+									</div>
+
+									<div class="form-group col-lg-6 col-md-6 col-sm-6">
+                                                <input type="hidden" name="active" value="<?php echo $active; ?>" >
+                                            </div>
+									<div class="form-group col-lg-12 col-md-12 col-sm-12">
+								
+										<input class="theme-btn btn-style-one" value="SUBMIT MESSAGE" name="submit"  title="Click here to submit your message !" type="submit">
+
+									</div>
+									
+								</div>
+							</form>
+						</div>
+
+					</div>
+				</div>
+				<!-- Right Column -->
+				<div class="right-column clearfix">
+					<div class="inner-column">
+						<div class="sec-title title-anim">
+							<div class="sec-title_title">General questions</div>
+							<h2 class="sec-title_heading">Frequently Asked Question.</h2>
+							<div class="sec-title_text">We are a team of dedicated patent professional united by our commitment to excellence.</div>
+						</div>
+
+						<!-- Accordion Box -->
+						<ul class="accordion-box">
+							
+							<!-- Block -->
+							<li class="accordion block active-block">
+								<div class="acc-btn active"><div class="icon-outer"><span class="icon fa-solid fa-angle-down fa-fw"></span></div>Q: What is a trademark?</div>
+								<div class="acc-content current">
+									<div class="content">
+										<p>A trademark is a distinctive marker that distinguishes products or services from competitors. It can include symbols, designs, expressions, or identifiable features associated with a specific brand.</p>
+									</div>
+								</div>
+							</li>
+										
+							<!-- Block -->
+							<li class="accordion block">
+								<div class="acc-btn"><div class="icon-outer"><span class="icon fa-solid fa-angle-down fa-fw"></span></div>Q: What is a Patent?</div>
+								<div class="acc-content">
+									<div class="content">
+										<p>A patent is a legal document granting exclusive rights to inventors to protect their innovations, preventing others from using, selling, or making the invention without permission.</p>
+									</div>
+								</div>
+							</li>
+
+							<!-- Block -->
+							<li class="accordion block">
+								<div class="acc-btn"><div class="icon-outer"><span class="icon fa-solid fa-angle-down fa-fw"></span></div>Q: What is design registration?</div>
+								<div class="acc-content">
+									<div class="content">
+										<p>Design registration protects the unique visual appearance of products, granting exclusive rights to the creator for 10 years, extendable by 5 more years.</p>
+									</div>
+								</div>
+							</li>
+
+						</ul>
+
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+</div>
+	<!-- End Fluid One -->
+
 	<!-- Process One -->
-	<section class="process-one">
+	<section class="process-one mb-5">
 		<div class="auto-container">
 			<div class="sec-title centered">
 				<div class="sec-title_title">how its work</div>
@@ -958,6 +739,150 @@ Sanjay Gurnule
 		</div>
 	</section>
 	<!-- End Process One -->
+
+		<!-- Testimonial One -->
+		<section class="testimonial-one mb-5">
+		<div class="auto-container">
+			<div class="testimonial-one_carousel swiper-container">
+				<div class="swiper-wrapper">
+	
+					<!-- Slide -->
+					<div class="swiper-slide">
+						<!-- Testimonial Block One -->
+						<div class="testimonial-block_one">
+							<div class="testimonial-block_one-inner">
+								<div class="row clearfix">
+									
+									<!-- Image Column -->
+									<div class="testimonial-block_one-image-column col-lg-4 col-md-4 col-sm-12">
+										<div class="testimonial-block_one-image-outer">
+											<div class="testimonial-block_one-image">
+												<div class="testimonial-block_one-quote fa-solid fa-quote-left fa-fw"></div>
+												<img src="assets/images/resource/testimonial-1.jpg" alt="" />
+											</div>
+										</div>
+									</div>
+
+									<!-- Content Column -->
+									<div class="testimonial-block_one-content-column col-lg-8 col-md-8 col-sm-12">
+										<div class="testimonial-block_one-content-outer">
+											<div class="testimonial-block_one-rating">
+												<span class="fa fa-star"></span>
+												<span class="fa fa-star"></span>
+												<span class="fa fa-star"></span>
+												<span class="fa fa-star"></span>
+												<span class="fa fa-star"></span>
+											</div>
+											<div class="testimonial-block_one-text">I recommend TRUEANDTRADE. Very professional s and easy for me Company Registration, GST Registration & Trademark Registration services. I thanks Mrs Mangayarkarasi C, is Well-Coordinated, On time response, Excellence services in advising customer for processing requirements. She made it easy for me. Thanks.</div>
+											<div class="testimonial-block_one-author">
+												Rajendra
+											</div>
+										</div>
+									</div>
+
+								</div>
+							</div>
+						</div>
+					</div>
+
+
+
+						<!-- Slide -->
+						<div class="swiper-slide">
+						<!-- Testimonial Block One -->
+						<div class="testimonial-block_one">
+							<div class="testimonial-block_one-inner">
+								<div class="row clearfix">
+									
+									<!-- Image Column -->
+									<div class="testimonial-block_one-image-column col-lg-4 col-md-4 col-sm-12">
+										<div class="testimonial-block_one-image-outer">
+											<div class="testimonial-block_one-image">
+												<div class="testimonial-block_one-quote fa-solid fa-quote-left fa-fw"></div>
+												<img src="assets/images/resource/testimonial-2.jpg" alt="" />
+											</div>
+										</div>
+									</div>
+
+									<!-- Content Column -->
+									<div class="testimonial-block_one-content-column col-lg-8 col-md-8 col-sm-12">
+										<div class="testimonial-block_one-content-outer">
+											<div class="testimonial-block_one-rating">
+												<span class="fa fa-star"></span>
+												<span class="fa fa-star"></span>
+												<span class="fa fa-star"></span>
+												<span class="fa fa-star"></span>
+												<span class="fa fa-star"></span>
+											</div>
+											<div class="testimonial-block_one-text">I recently contacted TrueandTrade for trademark registration process and I got to work with Mrs Mangayarkarasi C. She was really professional and kind and explained me everything in detail. I had to do no work at all because he and TrueandTrade took care of everything. They provide really nice services.</div>
+											<div class="testimonial-block_one-author">
+											Ishita Bhattacharya
+											</div>
+										</div>
+									</div>
+
+								</div>
+							</div>
+						</div>
+					</div>
+	<!-- Slide -->
+	<div class="swiper-slide">
+						<!-- Testimonial Block One -->
+						<div class="testimonial-block_one">
+							<div class="testimonial-block_one-inner">
+								<div class="row clearfix">
+									
+									<!-- Image Column -->
+									<div class="testimonial-block_one-image-column col-lg-4 col-md-4 col-sm-12">
+										<div class="testimonial-block_one-image-outer">
+											<div class="testimonial-block_one-image">
+												<div class="testimonial-block_one-quote fa-solid fa-quote-left fa-fw"></div>
+												<img src="assets/images/resource/testimonial-1.jpg" alt="" />
+											</div>
+										</div>
+									</div>
+
+									<!-- Content Column -->
+									<div class="testimonial-block_one-content-column col-lg-8 col-md-8 col-sm-12">
+										<div class="testimonial-block_one-content-outer">
+											<div class="testimonial-block_one-rating">
+												<span class="fa fa-star"></span>
+												<span class="fa fa-star"></span>
+												<span class="fa fa-star"></span>
+												<span class="fa fa-star"></span>
+												<span class="fa fa-star"></span>
+											</div>
+											<div class="testimonial-block_one-text">I Highly recommend Trueandtrade. Very professional organization and they take care of customer requirements with excellence. Happy with Mangayarkarasi C who managed my account and got our trademark process completed without any problem. Thanks👍</div>
+											<div class="testimonial-block_one-author">
+												
+Sanjay Gurnule
+											</div>
+										</div>
+									</div>
+
+								</div>
+							</div>
+						</div>
+					</div>
+			
+
+				</div>
+
+				<!-- Testimonial One Arrows -->
+				<div class="testimonial-one-arrow">
+					<div class="testimonial-one_carousel-pagination"></div>
+					<!-- If we need navigation buttons -->
+					<div class="testimonial-one_carousel-prev fa-solid fa-angle-left fa-fw"></div>
+					<div class="testimonial-one_carousel-next fa-solid fa-angle-right fa-fw"></div>
+				</div>
+
+			</div>
+			
+		</div>
+	</section>
+	<!-- End Testimonial One -->
+
+
 
 
 

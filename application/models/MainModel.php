@@ -23,6 +23,14 @@ class MainModel extends CI_Model {
 
     
 
+    public function get_scroll()
+    {
+        // Query the 'users' table where 'flag' is 1
+        $query = $this->db->get_where('scrollbar', array('status' => 1));
+        // Return the result as an associative array
+        return $query->result_array();
+    }
+
 
 	public function save_enquiry($data)  
 		{  

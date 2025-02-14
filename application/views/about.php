@@ -105,28 +105,25 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 					<div class="about-four_content-outer">
 						<div class="sec-title title-anim">
 							<div class="sec-title_title">about us</div>
-							<h2 class="sec-title_heading">Let’s Explore Our Intellectual Property Journey</h2>
-							<div class="sec-title_text">Established in 2006 as a very small consultant, own the year True
-and Trade Associates have become one of the leading firms
-in Intellectual Property Consultant in and around Coimbatore. Nearly we
-have 6500 Clients around all over India. True and Trade Associates
-Provide a comprehensive services in related to acquiring Trademark,
-Patent, Copyright, Design and other right related consultants .
+
+							<div class="sec-title_text">Since its inception in 2006, True and Trade Associates has evolved from a modest legal
+							consultancy.
+
+
+
+</div>
+
+							<h2 class="sec-title_heading">Our Legacy: Protecting Intellectual Property Rights</h2>
+							<div class="sec-title_text">Established in 2006, True and Trade Associates began as a small consultancy firm. Today, we
+have grown into one of the leading intellectual property consultant firms in and around
+Coimbatore.
 
 
 
 </div>
 
 
-<div class="sec-title_text">
 
-
-The team professionals in True and Trade Associates play an very
-important roles as IP associates internally, working with international
-influence rules to protect the intellectual property. 
-
-
-</div>
 		
 						</div>
 						<div class="row clearfix">
@@ -137,8 +134,8 @@ influence rules to protect the intellectual property.
 									<div class="about-four_block-icon">
 										<i class="icon-controlxpert_svgrepocom-2"></i>
 									</div>
-									<h5 class="about-four_block-title">Proven Track Record</h5>
-									<div class="about-four_block-text">Our expert team offers full support throughout the patent application process.
+									<h5 class="about-four_block-title">Our Milestones</h5>
+									<div class="about-four_block-text">17 years of experience in registration services
 
 .
 
@@ -152,8 +149,8 @@ influence rules to protect the intellectual property.
 									<div class="about-four_block-icon">
 										<i class="icon-controlxpert_svgrepocom"></i>
 									</div>
-									<h5 class="about-four_block-title">Unmatched Expertise</h5>
-									<div class="about-four_block-text">We provide effective, tailored IP solutions with deep industry knowledge.
+									<h5 class="about-four_block-title">Our Milestones</h5>
+									<div class="about-four_block-text">Over 6,500 clients across India
 
 </div>
 								</div>
@@ -176,6 +173,128 @@ influence rules to protect the intellectual property.
 		</div>
 	</section>
 	<!-- End About Four -->
+
+
+		<!-- Process Two -->
+		<section class="process-two">
+		<div class="auto-container">
+
+		<div class="row clearfix">
+		<div class="process-two_content-column col-lg-6 col-md-12 col-sm-12">
+
+
+<div class="sec-title title-anim">
+				<div class="sec-title_title style-two">Our Approach</div>
+			</div>
+			</div>
+			</div>
+
+
+			<div class="row clearfix">
+		
+				<!-- Process Column -->
+				<div class="process-two_content-column col-lg-6 col-md-12 col-sm-12">
+					<div class="process-two_content-outer">
+					
+						
+						<!-- Process Block Two -->
+						<div class="process-block_two">
+							<div class="process-block_two-inner process-block_two-inner-custom">
+								<div class="process-block_two-content">
+									<div class="process-block_two-icon"><img src="assets/images/icons/process-1.png" alt="" /></div>
+									<h5 class="process-block_two-heading"><a href="service-detail.html">Our Milestones</a></h5>
+									<div class="process-block_two-text">17 years of experience in registration services, Over 6,500 clients across India</div>
+									<div class="process-block_two-text">Comprehensive services in acquiring trademarks, patents, copyrights, designs, and other related
+									rights</div><br>
+
+
+								</div>
+							</div>
+						</div>
+
+						<!-- Process Block Two -->
+						<div class="process-block_two">
+							<div class="process-block_two-inner process-block_two-inner-custom">
+								<div class="process-block_two-content">
+									<div class="process-block_two-icon"><img src="assets/images/icons/process-1.png" alt="" /></div>
+									<h5 class="process-block_two-heading"><a href="service-detail.html">Our Mission</a></h5>
+									<div class="process-block_two-text">We are passionate about helping businesses secure their most valuable asset-their brand.
+Our team specializes in trademark registration and related services, providing a seamless and
+reliable process for protecting your intellectual property.</div><br>
+								</div>
+							</div>
+						</div>
+
+						<!-- Process Block Two -->
+						<div class="process-block_two">
+							<div class="process-block_two-inner process-block_two-inner-custom">
+								<div class="process-block_two-content">
+									<div class="process-block_two-icon"><img src="assets/images/icons/process-1.png" alt="" /></div>
+									<h5 class="process-block_two-heading"><a href="service-detail.html">Our Infrastructure</a></h5>
+									<div class="process-block_two-text">With our office located in Coimbatore, we serve clients across India. Our team of professionals
+									works closely with international influencers to protect intellectual property rights.</div>
+								</div>
+							</div>
+						</div>
+
+					</div>
+				</div>
+
+				<!-- Process Column -->
+				<div class="process-two_content-column col-lg-6 col-md-12 col-sm-12">
+					<div class="process-two_content-outer">
+					
+						
+						<!-- Process Block Two -->
+						<div class="process-block_two">
+							<div class="process-block_two-inner process-block_two-inner-custom">
+								<div class="process-block_two-content">
+									<div class="process-block_two-icon"><img src="assets/images/icons/process-1.png" alt="" /></div>
+									<h5 class="process-block_two-heading"><a href="service-detail.html">Our Values</a></h5>
+									<div class="process-block_two-text">Commitment to excellence, Passion for protecting intellectual property, Dedication to simplifying complex registration processes, Tailored solutions for businesses of all sizes</div>
+						
+								</div>
+							</div>
+						</div>
+
+						<!-- Process Block Two -->
+						<div class="process-block_two">
+							<div class="process-block_two-inner process-block_two-inner-custom">
+								<div class="process-block_two-content">
+									<div class="process-block_two-icon"><img src="assets/images/icons/process-1.png" alt="" /></div>
+									<h5 class="process-block_two-heading"><a href="service-detail.html">Our Expertise</a></h5>
+									<div class="process-block_two-text">Our team of experienced professionals simplifies the complexities of trademark registration,
+making it accessible to businesses of all sizes. Whether you're a budding entrepreneur or a wellestablished
+corporation, we provide tailored solutions to ensure your brand identity is
+safeguarded against misuse and infringement.</div>
+								</div>
+							</div>
+						</div>
+
+					
+
+
+							<!-- Process Block Two -->
+							<div class="process-block_two">
+							<div class="process-block_two-inner process-block_two-inner-custom">
+								<div class="process-block_two-content">
+									<div class="process-block_two-icon"><img src="assets/images/icons/process-1.png" alt="" /></div>
+									<h5 class="process-block_two-heading"><a href="service-detail.html">Get Started</a></h5>
+									<div class="process-block_two-text">With our office located in Coimbatore, we serve clients across India. Our team of professionals
+									works closely with international influencers to protect intellectual property rights.</div>
+								</div>
+							</div>
+						</div>
+
+					</div>
+				</div>
+
+
+			</div>
+		</div>
+	</section>
+	<!-- End Process Two -->
+	<!-- End History One -->
 
 	<!-- Services Three -->
 	<section class="services-three">
@@ -202,20 +321,6 @@ influence rules to protect the intellectual property.
 					</div>
 				</div>
 
-				<!-- Service Block Three -->
-				<div class="service-block_three col-lg-4 col-md-6 col-sm-12">
-					<div class="service-block_three-inner wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
-						<div class="service-block_three-image">
-							<a href="<?php echo base_url(); ?>patent-registration"><img src="assets/images/resource/small/patent.jpg" alt="" /></a>
-						</div>
-						<div class="service-block_three-content">
-							<div class="service-block_three-icon icon-controlxpert_svgrepocom-3"></div>
-							<h3 class="service-block_three-heading"><a href="<?php echo base_url(); ?>patent-registration">Patent Registration</a></h3>
-							<div class="service-block_three-text">Patent registration grants exclusive rights to an inventor for their invention, preventing others from making, using, or selling it without permission.</div>
-							<a class="service-block_three-more" href="<?php echo base_url(); ?>patent-registration">Know More <i class="fa-solid fa-angle-right fa-fw"></i></a>
-						</div>
-					</div>
-				</div>
 
 				<!-- Service Block Three -->
 				<div class="service-block_three col-lg-4 col-md-6 col-sm-12">
@@ -228,6 +333,23 @@ influence rules to protect the intellectual property.
 							<h3 class="service-block_three-heading"><a href="<?php echo base_url(); ?>copyright-registration">Copyright Registration</a></h3>
 							<div class="service-block_three-text">Copyright registration provides legal protection for original works, granting the creator exclusive rights to reproduce, distribute, and display them.</div>
 							<a class="service-block_three-more" href="<?php echo base_url(); ?>copyright-registration">Know More <i class="fa-solid fa-angle-right fa-fw"></i></a>
+						</div>
+					</div>
+				</div>
+
+
+				
+				<!-- Service Block Three -->
+				<div class="service-block_three col-lg-4 col-md-6 col-sm-12">
+					<div class="service-block_three-inner wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
+						<div class="service-block_three-image">
+							<a href="<?php echo base_url(); ?>patent-registration"><img src="assets/images/resource/small/patent.jpg" alt="" /></a>
+						</div>
+						<div class="service-block_three-content">
+							<div class="service-block_three-icon icon-controlxpert_svgrepocom-3"></div>
+							<h3 class="service-block_three-heading"><a href="<?php echo base_url(); ?>patent-registration">Patent Registration</a></h3>
+							<div class="service-block_three-text">Patent registration grants exclusive rights to an inventor for their invention, preventing others from making, using, or selling it without permission.</div>
+							<a class="service-block_three-more" href="<?php echo base_url(); ?>patent-registration">Know More <i class="fa-solid fa-angle-right fa-fw"></i></a>
 						</div>
 					</div>
 				</div>
@@ -263,8 +385,8 @@ influence rules to protect the intellectual property.
 	<section class="counter-one style-two">
 		<div class="auto-container">
 			<div class="inner-container">
-				<div class="counter-one_border-one"></div>
-				<div class="counter-one_border-two"></div>
+				<!-- <div class="counter-one_border-one"></div>
+				<div class="counter-one_border-two"></div> -->
 				<div class="row clearfix">
 
 					<!-- Column -->
@@ -299,71 +421,6 @@ influence rules to protect the intellectual property.
 	</section>
 	<!-- End Counter One / Style Two -->
 
-	<!-- History One -->
-	<section class="history-one">
-		<div class="history-one_circle"></div>
-		<div class="history-one_circle-two"></div>
-		<div class="auto-container">
-			<div class="sec-title title-anim centered">
-				<div class="sec-title_title style-two">our History</div>
-				<h2 class="sec-title_heading">History Through Time</h2>
-			</div>
-			<div class="inner-container">
-	
-				<div class="history-one_slider swiper-container">
-					<div class="swiper-wrapper">
-						<!-- Slide -->
-						<div class="swiper-slide">
-							<!-- History Block One -->
-							<div class="history-block_one">
-								<div class="history-block_one-inner">
-									<div class="history-block_one-year">2006</div>
-									<div class="history-block_one-circle"></div>
-									<div class="history-block_one-content">
-										<h4 class="history-block_one-heading">Established in 2006</h4>
-										<div class="history-block_one-text"> Established in 2006 as a very small consultant, own the year True
-and Trade Associates have become one of the leading firms
-in Intellectual Property Consultant in and around Coimbatore</div>
-									</div>
-								</div>
-							</div>
-						</div>
-
-							<!-- Slide -->
-							<div class="swiper-slide">
-							<!-- History Block One -->
-							<div class="history-block_one">
-								<div class="history-block_one-inner">
-									<div class="history-block_one-year">2025</div>
-									<div class="history-block_one-circle"></div>
-									<div class="history-block_one-content">
-										<h4 class="history-block_one-heading">18 Years of Experience</h4>
-										<div class="history-block_one-text"> Nearly we
-have 6500 Clients around all over India. True and Trade Associates
-Provide a comprehensive services in related to acquiring Trademark,
-Patent, Copyright, Design and other right related consultants.</div>
-									</div>
-								</div>
-							</div>
-						</div>
-				
-					
-					</div>
-
-					<!-- History One Arrows -->
-					<div class="history-one-arrow">
-						<!-- If we need navigation buttons -->
-						<div class="history-one_carousel-prev fa-solid fa-angle-left fa-fw"></div>
-						<div class="history-one_carousel-next fa-solid fa-angle-right fa-fw"></div>
-					</div>
-					<div class="history-one_carousel-pagination"></div>
-
-				</div>
-
-			</div>
-		</div>
-	</section>
-	<!-- End History One -->
 
 	<!-- Default One -->
 	<section class="default-one">
@@ -506,7 +563,7 @@ Patent, Copyright, Design and other right related consultants.</div>
 	<!-- End Default One -->
 
 	<!-- Clients One -->
-	<section class="clients-one style-three">
+	<section class="clients-one custom-mt-100">
 		<div class="auto-container">
 			<div class="clients-one_slider swiper-container">
 				<div class="swiper-wrapper">
@@ -650,90 +707,7 @@ Patent, Copyright, Design and other right related consultants.</div>
 	</section>
 	<!-- Clients One -->
 
-	<!-- Team Two -->
-	<section class="team-two">
-		<div class="team-two_circle"></div>
-		<div class="team-two_circle-two"></div>
-		<div class="auto-container">
-			<div class="sec-title">
-				<div class="d-flex justify-content-between align-items-center flex-wrap">
-					<div class="left-box title-anim">
-						<div class="sec-title_title">our team</div>
-						<h2 class="sec-title_heading">expert team members</h2>
-					</div>
-					<div class="sec-title_text">
-						Our team comprises seasoned patent law in <br> professionals experience.
-					</div>
-				</div>
-			</div>
-			<div class="team-one_carousel swiper-container">
-				<div class="swiper-wrapper">
-	
-					<!-- Slide -->
-					<div class="swiper-slide">
-						<!-- Team Block Two -->
-						<div class="team-block_two">
-							<div class="team-block_two-inner">
-								<div class="team-block_two-image">
-									<img src="assets/images/resource/team-4.jpg" alt="" />
-									<div class="team-block_two-content">
-										<h4 class="team-block_two-heading">Marget M. Hason</h4>
-										<div class="team-block_two-designation">Patent Lawyer</div>
-										
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
 
-					<!-- Slide -->
-					<div class="swiper-slide">
-						<!-- Team Block Two -->
-						<div class="team-block_two">
-							<div class="team-block_two-inner">
-								<div class="team-block_two-image">
-									<img src="assets/images/resource/team-5.jpg" alt="" />
-									<div class="team-block_two-content">
-										<h4 class="team-block_two-heading">Marget M. Hason</h4>
-										<div class="team-block_two-designation">Patent Lawyer</div>
-									
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-
-					<!-- Slide -->
-					<div class="swiper-slide">
-						<!-- Team Block Two -->
-						<div class="team-block_two">
-							<div class="team-block_two-inner">
-								<div class="team-block_two-image">
-									<img src="assets/images/resource/team-6.jpg" alt="" />
-									<div class="team-block_two-content">
-										<h4 class="team-block_two-heading">Marget M. Hason</h4>
-										<div class="team-block_two-designation">Patent Lawyer</div>
-										
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-
-				</div>
-
-				<!-- Team One Arrows -->
-				<div class="team-one-arrow">
-					<!-- If we need navigation buttons -->
-					<div class="team-one_carousel-prev fa-solid fa-angle-left fa-fw"></div>
-					<div class="team-one_carousel-next fa-solid fa-angle-right fa-fw"></div>
-				</div>
-				<div class="team-one_carousel-pagination"></div>
-
-			</div>
-		</div>
-	</section>
-	<!-- End Team Two -->
 	<!-- CTA One -->
 	<?php require('components/cta.php'); ?>
 

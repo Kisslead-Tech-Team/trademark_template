@@ -31,16 +31,23 @@ class Welcome extends CI_Controller {
 
 	public function index()
 	{
-		$this->load->view('index', );
+
+
+
+		$data['scroll'] = $this->MainModel->get_scroll();
+		$this->load->view('index', $data);
 	}
 
 	public function about()
 	{
-		$this->load->view('about');
+		$data['scroll'] = $this->MainModel->get_scroll();
+
+		$this->load->view('about', $data);
 	}
 	public function clients()
 	{
 		$data['clients'] = $this->MainModel->get_all_clients();
+		$data['scroll'] = $this->MainModel->get_scroll();
 
 		$this->load->view('clients',  $data);
 	}
@@ -48,97 +55,133 @@ class Welcome extends CI_Controller {
 
 	public function contact()
 	{
-		$this->load->view('contact');
+		$data['scroll'] = $this->MainModel->get_scroll();
+
+		$this->load->view('contact', $data);
 	}
 	public function services()
 	{
-		$this->load->view('services');
+		$data['scroll'] = $this->MainModel->get_scroll();
+
+		$this->load->view('services', $data);
 	}
 	
 
 	public function servicetrademark()
 	{
-		$this->load->view('servicetrademark');
+		$data['scroll'] = $this->MainModel->get_scroll();
+
+		$this->load->view('servicetrademark', $data);
 	}
 
 	public function servicepatent()
 	{
-		$this->load->view('servicepatent');
+		$data['scroll'] = $this->MainModel->get_scroll();
+
+		$this->load->view('servicepatent', $data);
 	}
 	
 	public function servicecopyright()
 	{
-		$this->load->view('servicecopyright');
+		$data['scroll'] = $this->MainModel->get_scroll();
+
+		$this->load->view('servicecopyright', $data);
 	}
 	public function servicedesign()
 	{
-		$this->load->view('servicedesign');
+		$data['scroll'] = $this->MainModel->get_scroll();
+
+		$this->load->view('servicedesign', $data);
 	}
 
 	public function serviceinternationaltm()
 	{
-		$this->load->view('serviceinternationaltm');
+		$data['scroll'] = $this->MainModel->get_scroll();
+
+		$this->load->view('serviceinternationaltm', $data);
 	}
 
 	public function servicemsme()
 	{
-		$this->load->view('servicemsme');
+		$data['scroll'] = $this->MainModel->get_scroll();
+
+		$this->load->view('servicemsme', $data);
 	}
 
 	public function servicebarcode()
 	{
-		$this->load->view('servicebarcode');
+		$data['scroll'] = $this->MainModel->get_scroll();
+
+		$this->load->view('servicebarcode', $data);
 	}
 
 
 	public function servicefssai()
 	{
-		$this->load->view('servicefssai');
+		$data['scroll'] = $this->MainModel->get_scroll();
+
+		$this->load->view('servicefssai', $data);
 	}
 	public function serviceiso()
 	{
-		$this->load->view('serviceiso');
+		$data['scroll'] = $this->MainModel->get_scroll();
+
+		$this->load->view('serviceiso', $data);
 	}
 
 
 	public function servicegst()
 	{
-		$this->load->view('servicegst');
+		$data['scroll'] = $this->MainModel->get_scroll();
+
+		$this->load->view('servicegst', $data);
 	}
 	
 
 	public function servicepartnershipdeed()
 	{
-		$this->load->view('servicepartnershipdeed');
+		$data['scroll'] = $this->MainModel->get_scroll();
+
+		$this->load->view('servicepartnershipdeed', $data);
 	}
 	
 	
 	
 	public function servicehalal()
 	{
-		$this->load->view('servicehalal');
+		$data['scroll'] = $this->MainModel->get_scroll();
+
+		$this->load->view('servicehalal', $data);
 	}
 
 	public function serviceprivatelimieted()
 	{
-		$this->load->view('serviceprivatelimieted');
+		$data['scroll'] = $this->MainModel->get_scroll();
+
+		$this->load->view('serviceprivatelimieted', $data);
 	}
 
 	public function serviceimportexport()
 	{
-		$this->load->view('serviceimportexport');
+		$data['scroll'] = $this->MainModel->get_scroll();
+
+		$this->load->view('serviceimportexport', $data);
 	}
 
 	public function servicepf()
 	{
-		$this->load->view('servicepf');
+		$data['scroll'] = $this->MainModel->get_scroll();
+
+		$this->load->view('servicepf', $data);
 	}
 
 
 	
 	public function serviceesi()
 	{
-		$this->load->view('serviceesi');
+		$data['scroll'] = $this->MainModel->get_scroll();
+
+		$this->load->view('serviceesi', $data);
 	}
 
 	
@@ -157,7 +200,6 @@ class Welcome extends CI_Controller {
 		 $this->form_validation->set_rules('email', 'email', 'required'); 
 		 $this->form_validation->set_rules('number', 'number', 'required'); 
 		 $this->form_validation->set_rules('service', 'service', 'required'); 
-		 $this->form_validation->set_rules('message', 'message', 'required'); 
 
 
 		 if($this->form_validation->run()){
@@ -169,7 +211,7 @@ class Welcome extends CI_Controller {
 
 
    
-		$to = 'jayarajvmu@gmail.com';
+		$to = 'trueandtrademd@gmail.com';
         $subject = 'Get a Qoute';
 		$message = "Enquery Details from customer \r\n \r\n";
         $message .= "Full Name : ".$full_name . "\r\n";
@@ -179,7 +221,7 @@ class Welcome extends CI_Controller {
  
 
         $headers = 'From: noreply@trueandtrade.com' . "\r\n" .
-                   'Reply-To: jayarajvmu@gmail.com' . "\r\n" .
+                   'Reply-To: trueandtrademd@gmail.com' . "\r\n" .
                    'X-Mailer: PHP/' . phpversion();
 
         if (mail($to, $subject, $message, $headers)) {
@@ -194,26 +236,26 @@ class Welcome extends CI_Controller {
             ];
 
 
-	if ($this->MainModel->save_enquiry($data)) {
-                $this->session->set_flashdata('emailsuccess', 'Mail sent successfully and enquiry saved.');
-				redirect(base_url("/contact"));
-				redirect(base_url("/".$redirect_page));
+			if ($this->MainModel->save_enquiry($data)) {
+						$this->session->set_flashdata('emailsuccess', 'Mail sent successfully and enquiry saved.');
+						redirect(base_url("/contact"));
+						redirect(base_url("/".$redirect_page));
 
 
-            } else {
-                $this->session->set_flashdata('emailerror', 'Mail sent but enquiry could not be saved.');
-				redirect(base_url("/".$redirect_page));
+					} else {
+						$this->session->set_flashdata('emailerror', 'Mail sent but enquiry could not be saved.');
+						redirect(base_url("/".$redirect_page));
 
-            }
-        } else {
-			$this->session->set_flashdata('emailerror', 'Can not able to send mail');
+					}
+				} else {
+					$this->session->set_flashdata('emailerror', 'Can not able to send mail');
 
-			redirect(base_url("/".$redirect_page));
+					redirect(base_url("/".$redirect_page));
 
-        }
+				}
 
-		}
-    }
+				}
+	}
 
 
 		 }

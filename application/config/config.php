@@ -23,8 +23,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://localhost/codeigniter/trueandtrade';
-// $config['base_url'] = 'https://trueandtrade.bharatmakers.com';
+// $config['base_url'] = 'http://localhost/codeigniter/trueandtrade';
+$config['base_url'] = 'https://trueandtrade.com';
 /*
 |--------------------------------------------------------------------------
 | Index File
