@@ -149,7 +149,7 @@ A primary tool in international trademark registration is the Madrid System, man
 				<!-- Column -->
 				<div class="column col-lg-6 col-md-12 col-sm-12">
 					<h3 class="service-detail_subheading">Trademarks</h3>
-					<p>A trademark is a type of intellectual property that includes any recognisable sign, design, or expression that differentiates the products or services of one source from those of others. Trademarks can be owned by individuals, businesses, or any legal entity and are commonly seen on packages, labels, or directly on products. For services they are often used in advertising to help identify the service provider.</p>
+					<p>A trademark is a type of intellectual property that includes any recognisable sign, design or expression that differentiates the products or services of one source from those of others. Trademarks can be owned by individuals, businesses or any legal entity and are commonly seen on packages, labels or directly on products. For services they are often used in advertising to help identify the service provider.</p>
 
 					<p>Trademarks serve multiple key purposes:</p>
 

@@ -76,7 +76,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 						<div class="sec-title_text">
 
 
-						International trade is a gateway to a world of opportunities for businesses in India. Whether you're looking to import goods, export products, or expand your business globally, having an Importer Exporter Code (IEC) is your key to entering the international market. This code is issued by the Directorate General of Foreign Trade (DGFT), under the Ministry of Commerce. For importers, the IEC is indispensable for the clearance of customs and facilitating payments to foreign banks, ensuring smooth international trade transactions. Similarly, exporters rely on the IEC to streamline the process of sending shipments and receiving payments from overseas clients. <br><br>
+						International trade is a gateway to a world of opportunities for businesses in India. Whether you're looking to import goods, export products or expand your business globally, having an Importer Exporter Code (IEC) is your key to entering the international market. This code is issued by the Directorate General of Foreign Trade (DGFT), under the Ministry of Commerce. For importers, the IEC is indispensable for the clearance of customs and facilitating payments to foreign banks, ensuring smooth international trade transactions. Similarly, exporters rely on the IEC to streamline the process of sending shipments and receiving payments from overseas clients. <br><br>
 
 TrueandTrade is here to simplify the process for you. Our comprehensive IEC registration services make it easier than ever to obtain the essential IEC certificate and import export license, ensuring that you're well-prepared to explore the global trade landscape.<br><br>
 

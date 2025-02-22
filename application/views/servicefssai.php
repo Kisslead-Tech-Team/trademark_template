@@ -78,7 +78,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                             <div class="column col-lg-6 col-md-12 col-sm-12">
                                 <div class="sec-title_text">
                                     FSSAI License and Registration is required for any food business in India that
-                                    manufactures, stores, transports, or distributes food. Depending on the size and
+                                    manufactures, stores, transports or distributes food. Depending on the size and
                                     nature of the company, FSSAI registration or license may be required. In the FSSAI
                                     Registration process, the FBO will get a 14 digit number that needs to be printed on
                                     food packages. Obtaining a FSSAI license can provide the food business with legal
@@ -208,7 +208,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                             <ul class="service-detail_list">
                                 <li><i class="fa-solid fa-circle-check fa-fw"></i>Petty retailers, Retail Shops, Snacks
                                     shops, Confectionery or Bakery shops, etc</li>
-                                <li><i class="fa-solid fa-circle-check fa-fw"></i>Temporary stalls, fixed stalls, or
+                                <li><i class="fa-solid fa-circle-check fa-fw"></i>Temporary stalls, fixed stalls or
                                     food premises are involved in preparing, storing, distributing, and selling food
                                     products.</li>
                                 <li><i class="fa-solid fa-circle-check fa-fw"></i>Hawkers sell packaged or freshly
@@ -401,7 +401,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                         </div>
                                         <div class="acc-content current">
                                             <div class="content">
-                                                <p>License and Registration is required for any food business in India that manufactures, stores, transports, or distributes food. Depending on the size and nature of the company, FSSAI registration or License may be required.</p>
+                                                <p>License and Registration is required for any food business in India that manufactures, stores, transports or distributes food. Depending on the size and nature of the company, FSSAI registration or License may be required.</p>
                                             </div>
                                         </div>
                                     </li>

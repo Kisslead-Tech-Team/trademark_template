@@ -66,7 +66,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 						<div class="service-block_three-content">
 							<div class="service-block_three-icon icon-Frame"></div>
 							<h3 class="service-block_three-heading"><a href="<?php echo base_url(); ?>trademark-registration">Trademark Registration</a></h3>
-							<div class="service-block_three-text">Trademark registration legally protects a brand's name, logo, or symbol, granting exclusive rights and preventing unauthorized use.</div>
+							<div class="service-block_three-text">Trademark registration legally protects a brand's name, logo or symbol, granting exclusive rights and preventing unauthorized use.</div>
 							<a class="service-block_three-more" href="<?php echo base_url(); ?>trademark-registration">Know More <i class="fa-solid fa-angle-right fa-fw"></i></a>
 						</div>
 					</div>
@@ -99,7 +99,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 						<div class="service-block_three-content">
 							<div class="service-block_three-icon icon-controlxpert_svgrepocom-3"></div>
 							<h3 class="service-block_three-heading"><a href="<?php echo base_url(); ?>patent-registration">Patent Registration</a></h3>
-							<div class="service-block_three-text">Patent registration grants exclusive rights to an inventor for their invention, preventing others from making, using, or selling it without permission.</div>
+							<div class="service-block_three-text">Patent registration grants exclusive rights to an inventor for their invention, preventing others from making, using or selling it without permission.</div>
 							<a class="service-block_three-more" href="<?php echo base_url(); ?>patent-registration">Know More <i class="fa-solid fa-angle-right fa-fw"></i></a>
 						</div>
 					</div>
@@ -355,7 +355,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 								<div class="acc-btn active"><div class="icon-outer"><span class="icon fa-solid fa-angle-down fa-fw"></span></div>Q:  What is a trademark?</div>
 								<div class="acc-content current">
 									<div class="content">
-										<p>A trademark is a distinctive marker that distinguishes products or services from competitors. It can include symbols, designs, expressions, or identifiable features associated with a specific brand.</p>
+										<p>A trademark is a distinctive marker that distinguishes products or services from competitors. It can include symbols, designs, expressions or identifiable features associated with a specific brand.</p>
 									</div>
 								</div>
 							</li>
@@ -365,7 +365,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 								<div class="acc-btn"><div class="icon-outer"><span class="icon fa-solid fa-angle-down fa-fw"></span></div>Q: What is a Patent?</div>
 								<div class="acc-content">
 									<div class="content">
-										<p>A patent is a legal document granting exclusive rights to inventors to protect their innovations, preventing others from using, selling, or making the invention without permission.</p>
+										<p>A patent is a legal document granting exclusive rights to inventors to protect their innovations, preventing others from using, selling or making the invention without permission.</p>
 									</div>
 								</div>
 							</li>

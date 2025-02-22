@@ -315,7 +315,7 @@ safeguarded against misuse and infringement.</div>
 						<div class="service-block_three-content">
 							<div class="service-block_three-icon icon-Frame"></div>
 							<h3 class="service-block_three-heading"><a href="<?php echo base_url(); ?>trademark-registration">Trademark Registration</a></h3>
-							<div class="service-block_three-text">Trademark registration legally protects a brand's name, logo, or symbol, granting exclusive rights and preventing unauthorized use.</div>
+							<div class="service-block_three-text">Trademark registration legally protects a brand's name, logo or symbol, granting exclusive rights and preventing unauthorized use.</div>
 							<a class="service-block_three-more" href="<?php echo base_url(); ?>trademark-registration">Know More <i class="fa-solid fa-angle-right fa-fw"></i></a>
 						</div>
 					</div>
@@ -348,7 +348,7 @@ safeguarded against misuse and infringement.</div>
 						<div class="service-block_three-content">
 							<div class="service-block_three-icon icon-controlxpert_svgrepocom-3"></div>
 							<h3 class="service-block_three-heading"><a href="<?php echo base_url(); ?>patent-registration">Patent Registration</a></h3>
-							<div class="service-block_three-text">Patent registration grants exclusive rights to an inventor for their invention, preventing others from making, using, or selling it without permission.</div>
+							<div class="service-block_three-text">Patent registration grants exclusive rights to an inventor for their invention, preventing others from making, using or selling it without permission.</div>
 							<a class="service-block_three-more" href="<?php echo base_url(); ?>patent-registration">Know More <i class="fa-solid fa-angle-right fa-fw"></i></a>
 						</div>
 					</div>
@@ -490,10 +490,10 @@ safeguarded against misuse and infringement.</div>
 												<span class="fa fa-star"></span>
 												<span class="fa fa-star"></span>
 											</div>
-											<div class="testimonial-block_two-text">I recommend TRUEANDTRADE. Very professional s and easy for me Company Registration, GST Registration & Trademark Registration services. I thanks Mrs Mangayarkarasi C, is Well-Coordinated, On time response, Excellence services in advising customer for processing requirements. She made it easy for me. Thanks.</div>
+											<div class="testimonial-block_two-text">The team at True and Trade Associates provided excellent support throughout the trademark registration process. Their professionalism and efficiency made the entire experience smooth and stress-free.</div>
 											<div class="testimonial-block_two-author">
 												<span><img src="assets/images/resource/author-4.jpg" alt="" /></span>
-												<strong>Rajendra</strong>
+												<strong>Rajesh</strong>
 											</div>
 											<div class="testimonial-block_two-quote fa-solid fa-quote-right fa-fw"></div>
 										</div>
@@ -511,10 +511,10 @@ safeguarded against misuse and infringement.</div>
 												<span class="fa fa-star"></span>
 												<span class="fa fa-star"></span>
 											</div>
-											<div class="testimonial-block_two-text">I recently contacted TrueandTrade for trademark registration process and I got to work with Mrs Mangayarkarasi C. She was really professional and kind and explained me everything in detail. I had to do no work at all because he and TrueandTrade took care of everything. They provide really nice services.</div>
+											<div class="testimonial-block_two-text">The team made the trademark registration process easy. Their professionalism and clear communication were excellent. I’m satisfied with their service!</div>
 											<div class="testimonial-block_two-author">
 												<span><img src="assets/images/resource/author-5.jpg" alt="" /></span>
-												<strong>Ishita Bhattacharya</strong>
+												<strong>Lavanya</strong>
 											</div>
 											<div class="testimonial-block_two-quote fa-solid fa-quote-right fa-fw"></div>
 										</div>
@@ -532,10 +532,31 @@ safeguarded against misuse and infringement.</div>
 												<span class="fa fa-star"></span>
 												<span class="fa fa-star"></span>
 											</div>
-											<div class="testimonial-block_two-text">I Highly recommend Trueandtrade. Very professional organization and they take care of customer requirements with excellence. Happy with Mangayarkarasi C who managed my account and got our trademark process completed without any problem. Thanks👍</div>
+											<div class="testimonial-block_two-text">	I recently visited True and Trade Associates for my trademark needs. Their team was responsive, professional, and made the whole process easy. Highly recommended!</div>
 											<div class="testimonial-block_two-author">
 												<span><img src="assets/images/resource/author-4.jpg" alt="" /></span>
-												<strong>Sanjay Gurnule</strong>
+												<strong>Ramesh</strong>
+											</div>
+											<div class="testimonial-block_two-quote fa-solid fa-quote-right fa-fw"></div>
+										</div>
+									</div>
+								</div>
+
+								<div class="swiper-slide">
+									<!-- Testimonial Block Two -->
+									<div class="testimonial-block_two">
+										<div class="testimonial-block_two-inner">
+											<div class="testimonial-block_two-rating">
+												<span class="fa fa-star"></span>
+												<span class="fa fa-star"></span>
+												<span class="fa fa-star"></span>
+												<span class="fa fa-star"></span>
+												<span class="fa fa-star"></span>
+											</div>
+											<div class="testimonial-block_two-text">	Their legal advice was invaluable, guiding me through the entire process with clarity and expertise. They were always available to answer my questions and address any concerns I had. Thanks to their support!</div>
+											<div class="testimonial-block_two-author">
+												<span><img src="assets/images/resource/author-4.jpg" alt="" /></span>
+												<strong>Praveen</strong>
 											</div>
 											<div class="testimonial-block_two-quote fa-solid fa-quote-right fa-fw"></div>
 										</div>

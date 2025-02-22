@@ -164,7 +164,7 @@ This document is significant as it helps prevent misunderstandings and conflicts
 
 						<li><i class="fa-solid fa-circle-check fa-fw"></i><span><strong>Companies as Partners:</strong>  Companies, considered legal entities, can also be partners if their objectives permit it.</span></li>
 
-						<li><i class="fa-solid fa-circle-check fa-fw"></i><span><strong>Trustees of Specific Trusts:</strong> Trustees of private religious, family, or Hindu trusts can partner unless their rules explicitly prohibit it.</span></li>
+						<li><i class="fa-solid fa-circle-check fa-fw"></i><span><strong>Trustees of Specific Trusts:</strong> Trustees of private religious, family or Hindu trusts can partner unless their rules explicitly prohibit it.</span></li>
 
 						
 					</ul>

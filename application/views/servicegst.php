@@ -339,7 +339,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                             <h6 class="service-detail_subheading">Online Service Providers</h6>
 
 
-                            <p>Entities delivering online information, database access, or retrieval services from
+                            <p>Entities delivering online information, database access or retrieval services from
                                 outside India to an individual in India, excluding those already registered under GST.
                             </p>
                         </div>
@@ -414,7 +414,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 
                             <p class="mt-4">In addition to these details, you will be required to submit the following
-                                documents to complete the trademark registration online, or even logo trademark
+                                documents to complete the trademark registration online or even logo trademark
                                 registration process:</p>
 
 

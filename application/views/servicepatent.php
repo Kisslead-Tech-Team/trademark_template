@@ -76,13 +76,13 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 						<div class="sec-title_text">
 
 
-						Patents are pivotal in protecting the intellectual property rights of fresh innovations, be they products, services, or processes. In India, to ensure these rights are recognized and upheld, one must adhere to the Indian Patent Act of 1970 for patent registration.<br><br>
+						Patents are pivotal in protecting the intellectual property rights of fresh innovations, be they products, services or processes. In India, to ensure these rights are recognized and upheld, one must adhere to the Indian Patent Act of 1970 for patent registration.<br><br>
 
 At True and Trade, we understand the intricacies of the Indian patent landscape. With our experts and streamlined processes, we guide you step-by-step, ensuring your invention stands out and receives the protection it rightfully deserves. Ready to safeguard your innovation? Let TrueandTrade lead the way to a hassle-free patent registration process.
 					
 						</div>
 					</div>
-				</div>
+				</div>  
 			</div>
 			<div class="service-detail_image">
 				<img src="assets/images/resource/service-patent.jpg" alt="" />
@@ -95,7 +95,7 @@ At True and Trade, we understand the intricacies of the Indian patent landscape.
 				</div>
 				<!-- Column -->
 				<div class="column col-lg-6 col-md-12 col-sm-12">
-					<p>A patent is a legal certificate that grants individuals or companies exclusive rights to protect their inventions, ensuring others cannot import, produce, or sell their inventions without permission. Many inventors do patent filing for their innovations to shield their unique concepts from unauthorized use.</p>
+					<p>A patent is a legal certificate that grants individuals or companies exclusive rights to protect their inventions, ensuring others cannot import, produce or sell their inventions without permission. Many inventors do patent filing for their innovations to shield their unique concepts from unauthorized use.</p>
 				</div>
 			</div>
 
@@ -108,7 +108,7 @@ At True and Trade, we understand the intricacies of the Indian patent landscape.
 						<div class="service-block_six-inner">
 							<div class="service-block_six-icon icon-controlxpert_svgrepocom"></div>
 							<h4 class="service-block_six-heading">Exclusive Rights</h4>
-							<div class="service-block_six-text">Patent registration grants exclusive rights to the inventor, preventing others from making, using, or selling the invention.</div>
+							<div class="service-block_six-text">Patent registration grants exclusive rights to the inventor, preventing others from making, using or selling the invention.</div>
 						</div>
 					</div>
 
@@ -154,7 +154,7 @@ At True and Trade, we understand the intricacies of the Indian patent landscape.
 					<ul class="service-detail_list">
 						<li><i class="fa-solid fa-circle-check fa-fw"></i><span><strong>Products:</strong> This encompasses novel and inventive tangible items like machinery, gadgets, chemicals, drugs, and fabricated goods.</span></li>
 					
-						<li><i class="fa-solid fa-circle-check fa-fw"></i><span><strong>Processes or Methods:</strong> Patent registration in India can be obtained for innovative procedures or methods that present a fresh approach to performing a particular task or producing an item. This might cover manufacturing techniques, industrial processes, or pioneering methodologies.</span></li>
+						<li><i class="fa-solid fa-circle-check fa-fw"></i><span><strong>Processes or Methods:</strong> Patent registration in India can be obtained for innovative procedures or methods that present a fresh approach to performing a particular task or producing an item. This might cover manufacturing techniques, industrial processes or pioneering methodologies.</span></li>
 
 						<li><i class="fa-solid fa-circle-check fa-fw"></i><span><strong>Machines:</strong> Any innovative and practical mechanical inventions, especially those showcasing novel mechanisms or parts, are patentable.</span></li>
 
@@ -320,7 +320,7 @@ At True and Trade, we understand the intricacies of the Indian patent landscape.
 								<div class="acc-btn active"><div class="icon-outer"><span class="icon fa-solid fa-angle-down fa-fw"></span></div>Q: What is a Patent?</div>
 								<div class="acc-content current">
 									<div class="content">
-										<p>A patent is a legal document granting exclusive rights to inventors to protect their innovations, preventing others from using, selling, or making the invention without permission.</p>
+										<p>A patent is a legal document granting exclusive rights to inventors to protect their innovations, preventing others from using, selling or making the invention without permission.</p>
 									</div>
 								</div>
 							</li>
@@ -330,7 +330,7 @@ At True and Trade, we understand the intricacies of the Indian patent landscape.
 								<div class="acc-btn"><div class="icon-outer"><span class="icon fa-solid fa-angle-down fa-fw"></span></div>Q: What is Patent Registration?</div>
 								<div class="acc-content">
 									<div class="content">
-										<p>Patent Registration is the formal process of obtaining exclusive rights for an invention, whether it's a product, service, or technology, giving the inventor control over their creation for a certain period.</p>
+										<p>Patent Registration is the formal process of obtaining exclusive rights for an invention, whether it's a product, service or technology, giving the inventor control over their creation for a certain period.</p>
 									</div>
 								</div>
 							</li>

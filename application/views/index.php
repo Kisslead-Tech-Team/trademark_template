@@ -142,7 +142,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 								<div class="service-block_one-background"></div>
 								<div class="service-block_one-icon icon-controlxpert_svgrepocom"></div>
 								<h4 class="service-block_one-heading"><a href="<?php echo base_url(); ?>trademark-registration">Trademark Registration</a></h4>
-								<div class="service-block_one-text">Trademark registration legally protects a brand's name, logo, or symbol, granting exclusive rights and preventing unauthorized use.</div>
+								<div class="service-block_one-text">Trademark registration legally protects a brand's name, logo or symbol, granting exclusive rights and preventing unauthorized use.</div>
 							</div>
 						</div>
 					</div>
@@ -172,7 +172,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 								<div class="service-block_one-background"></div>
 								<div class="service-block_one-icon icon-controlxpert_svgrepocom-1"></div>
 								<h4 class="service-block_one-heading"><a href="<?php echo base_url(); ?>patent-registration">Patent Registration</a></h4>
-								<div class="service-block_one-text">Patent registration grants exclusive rights to an inventor for their invention, preventing others from making, using, or selling it without permission.</div>
+								<div class="service-block_one-text">Patent registration grants exclusive rights to an inventor for their invention, preventing others from making, using or selling it without permission.</div>
 							</div>
 						</div>
 					</div>
@@ -433,7 +433,7 @@ have grown into one of the leading intellectual property consultant firms in and
 								<div class="service-block_two-icon icon-Frame"></div>
 							</div>
 							<h4 class="service-block_two-heading"><a href="<?php echo base_url(); ?>trademark-registration">Trademark Registration</a></h4>
-							<div class="service-block_two-text">Trademark registration legally protects a brand's name, logo, or symbol, granting exclusive rights and preventing unauthorized use.</div>
+							<div class="service-block_two-text">Trademark registration legally protects a brand's name, logo or symbol, granting exclusive rights and preventing unauthorized use.</div>
 						</div>
 						<div class="lower-box">
 							<div class="d-flex justify-content-between align-items-center flex-wrap">
@@ -476,7 +476,7 @@ have grown into one of the leading intellectual property consultant firms in and
 								<div class="service-block_two-icon icon-controlxpert_svgrepocom-3"></div>
 							</div>
 							<h4 class="service-block_two-heading"><a href="<?php echo base_url(); ?>patent-registration">Patent Registration</a></h4>
-							<div class="service-block_two-text">Patent registration grants exclusive rights to an inventor for their invention, preventing others from making, using, or selling it without permission.</div>
+							<div class="service-block_two-text">Patent registration grants exclusive rights to an inventor for their invention, preventing others from making, using or selling it without permission.</div>
 						</div>
 						<div class="lower-box">
 							<div class="d-flex justify-content-between align-items-center flex-wrap">
@@ -642,7 +642,7 @@ have grown into one of the leading intellectual property consultant firms in and
 								<div class="acc-btn active"><div class="icon-outer"><span class="icon fa-solid fa-angle-down fa-fw"></span></div>Q: What is a trademark?</div>
 								<div class="acc-content current">
 									<div class="content">
-										<p>A trademark is a distinctive marker that distinguishes products or services from competitors. It can include symbols, designs, expressions, or identifiable features associated with a specific brand.</p>
+										<p>A trademark is a distinctive marker that distinguishes products or services from competitors. It can include symbols, designs, expressions or identifiable features associated with a specific brand.</p>
 									</div>
 								</div>
 							</li>
@@ -652,7 +652,7 @@ have grown into one of the leading intellectual property consultant firms in and
 								<div class="acc-btn"><div class="icon-outer"><span class="icon fa-solid fa-angle-down fa-fw"></span></div>Q: What is a Patent?</div>
 								<div class="acc-content">
 									<div class="content">
-										<p>A patent is a legal document granting exclusive rights to inventors to protect their innovations, preventing others from using, selling, or making the invention without permission.</p>
+										<p>A patent is a legal document granting exclusive rights to inventors to protect their innovations, preventing others from using, selling or making the invention without permission.</p>
 									</div>
 								</div>
 							</li>
@@ -773,9 +773,9 @@ have grown into one of the leading intellectual property consultant firms in and
 												<span class="fa fa-star"></span>
 												<span class="fa fa-star"></span>
 											</div>
-											<div class="testimonial-block_one-text">I recommend TRUEANDTRADE. Very professional s and easy for me Company Registration, GST Registration & Trademark Registration services. I thanks Mrs Mangayarkarasi C, is Well-Coordinated, On time response, Excellence services in advising customer for processing requirements. She made it easy for me. Thanks.</div>
+											<div class="testimonial-block_one-text">The team at True and Trade Associates provided excellent support throughout the trademark registration process. Their professionalism and efficiency made the entire experience smooth and stress-free.</div>
 											<div class="testimonial-block_one-author">
-												Rajendra
+												Rajesh
 											</div>
 										</div>
 									</div>
@@ -814,9 +814,9 @@ have grown into one of the leading intellectual property consultant firms in and
 												<span class="fa fa-star"></span>
 												<span class="fa fa-star"></span>
 											</div>
-											<div class="testimonial-block_one-text">I recently contacted TrueandTrade for trademark registration process and I got to work with Mrs Mangayarkarasi C. She was really professional and kind and explained me everything in detail. I had to do no work at all because he and TrueandTrade took care of everything. They provide really nice services.</div>
+											<div class="testimonial-block_one-text">The team made the trademark registration process easy. Their professionalism and clear communication were excellent. I’m satisfied with their service!</div>
 											<div class="testimonial-block_one-author">
-											Ishita Bhattacharya
+											Lavanya
 											</div>
 										</div>
 									</div>
@@ -852,10 +852,9 @@ have grown into one of the leading intellectual property consultant firms in and
 												<span class="fa fa-star"></span>
 												<span class="fa fa-star"></span>
 											</div>
-											<div class="testimonial-block_one-text">I Highly recommend Trueandtrade. Very professional organization and they take care of customer requirements with excellence. Happy with Mangayarkarasi C who managed my account and got our trademark process completed without any problem. Thanks👍</div>
+											<div class="testimonial-block_one-text">I recently visited True and Trade Associates for my trademark needs. Their team was responsive, professional, and made the whole process easy. Highly recommended!</div>
 											<div class="testimonial-block_one-author">
-												
-Sanjay Gurnule
+												Ramesh
 											</div>
 										</div>
 									</div>
@@ -863,6 +862,48 @@ Sanjay Gurnule
 								</div>
 							</div>
 						</div>
+
+					</div>
+
+
+						<!-- Slide -->
+	<div class="swiper-slide">
+						<!-- Testimonial Block One -->
+						<div class="testimonial-block_one">
+							<div class="testimonial-block_one-inner">
+								<div class="row clearfix">
+									
+									<!-- Image Column -->
+									<div class="testimonial-block_one-image-column col-lg-4 col-md-4 col-sm-12">
+										<div class="testimonial-block_one-image-outer">
+											<div class="testimonial-block_one-image">
+												<div class="testimonial-block_one-quote fa-solid fa-quote-left fa-fw"></div>
+												<img src="assets/images/resource/testimonial-1.jpg" alt="" />
+											</div>
+										</div>
+									</div>
+
+									<!-- Content Column -->
+									<div class="testimonial-block_one-content-column col-lg-8 col-md-8 col-sm-12">
+										<div class="testimonial-block_one-content-outer">
+											<div class="testimonial-block_one-rating">
+												<span class="fa fa-star"></span>
+												<span class="fa fa-star"></span>
+												<span class="fa fa-star"></span>
+												<span class="fa fa-star"></span>
+												<span class="fa fa-star"></span>
+											</div>
+											<div class="testimonial-block_one-text">Their legal advice was invaluable, guiding me through the entire process with clarity and expertise. They were always available to answer my questions and address any concerns I had. Thanks to their support!</div>
+											<div class="testimonial-block_one-author">
+												Praveen
+											</div>
+										</div>
+									</div>
+
+								</div>
+							</div>
+						</div>
+						
 					</div>
 			
 

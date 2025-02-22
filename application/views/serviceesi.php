@@ -162,7 +162,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                     <h4 class="service-block_six-heading">Disability and
                                             Dependents Benefits</h4>
                                     <div class="service-block_six-text">ESI provides compensation for work-related
-                                        injuries, disabilities, or death, ensuring financial support for employees and
+                                        injuries, disabilities or death, ensuring financial support for employees and
                                         their families.</div>
                                 </div>
                             </div>
@@ -406,7 +406,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 								</span></li>
 								<li><i class="fa-solid fa-circle-check fa-fw"></i><span>Establishment's Address Proof: One of the following can be provided:
 								</span></li>
-								<li><i class="fa-solid fa-circle-check fa-fw"></i><span>Recent utility bill (electricity, gas, or telephone not older than three months).
+								<li><i class="fa-solid fa-circle-check fa-fw"></i><span>Recent utility bill (electricity, gas or telephone not older than three months).
 								</span></li>
 								<li><i class="fa-solid fa-circle-check fa-fw"></i><span>Rental agreement for the establishment's premises.
 								</span></li>
@@ -490,7 +490,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                         </div>
                                         <div class="acc-content">
                                             <div class="content">
-                                                <p>Any business entity like factories, shops, or establishments with 10 or more employees (20 in some cases) and where employees `earn up to Rs. 21,000 per month (Rs. 25,000 for disabled individuals) must register for ESI.</p>
+                                                <p>Any business entity like factories, shops or establishments with 10 or more employees (20 in some cases) and where employees `earn up to Rs. 21,000 per month (Rs. 25,000 for disabled individuals) must register for ESI.</p>
                                             </div>
                                         </div>
                                     </li>

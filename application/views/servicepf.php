@@ -85,7 +85,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                     the Provident Fund (PF) scheme. This EPF registration is a crucial step for
                                     businesses to ensure that their employees are enrolled in this mandatory savings and
                                     pension scheme, which provides financial security in retirement, during medical
-                                    emergencies, or other unforeseen circumstances.<br><br>
+                                    emergencies or other unforeseen circumstances.<br><br>
 
                                     TrueandTrade offers expert assistance to streamline the PF registration process for
                                     companies. With comprehensive support, we ensure that the PF registration online is
@@ -241,7 +241,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 
                             <p>The Provident Fund provides financial security to employees and their families in case of
-                                retirement, illness, or death.
+                                retirement, illness or death.
 
                             </p>
                         </div>

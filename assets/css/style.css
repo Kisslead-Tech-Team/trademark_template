@@ -1250,7 +1250,7 @@
 
 .testimonial-one-arrow{
 	position: absolute;
-	width: 140px;
+	width: 160px;
 	right: 55px;
 	z-index: 1;
 	bottom: 125px;
@@ -1281,7 +1281,7 @@
 	right: 37px;
 	left: auto;
 	text-align: right;
-	width: 80px !important;
+	width: 100px !important;
 	bottom: 1px;
 }
 
@@ -2624,12 +2624,12 @@
 
 .client-image:hover{
 	position: relative;
-	border-color: var(--color-two);
+	/* border-color: var(--color-two); */
 }
 
 .client-image img{
 	position: relative;
-	opacity: 0.70;
+
 	filter: grayscale(0%);
 	transition:all 300ms ease;
 	-moz-transition:all 300ms ease;
@@ -2639,8 +2639,8 @@
 }
 
 .client-image img:hover{
-	opacity:1;
-	filter: grayscale(100%);
+
+	/* filter: grayscale(100%); */
 }
 
 /*** 
@@ -4515,7 +4515,7 @@
 
 .testimonial-two-arrow{
 	position: relative;
-	width: 140px;
+	width: 157px;
 	margin-top: 35px;
 }
 
@@ -4536,7 +4536,7 @@
 
 .testimonial-two_carousel-pagination{
 	position: relative;
-	width: 74px !important;
+	width: 100px !important;
 	top: 23px;
 	left: 30px;
 }

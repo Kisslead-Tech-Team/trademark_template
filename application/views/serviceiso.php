@@ -196,7 +196,7 @@ Secure Your ISO Certification with TrueandTrade: Elevate Your Business Standards
 				<!-- Column -->
 				<div class="column col-lg-6 col-md-12 col-sm-12">
 					<h6 class="service-detail_subheading">Determine the type of ISO certification needed</h6>
-					<p>The first step is to determine the type of ISO certification that best suits your business needs. This could be based on the industry, target market, or customers' specific requirements.</p>
+					<p>The first step is to determine the type of ISO certification that best suits your business needs. This could be based on the industry, target market or customers' specific requirements.</p>
 				</div>
 
 				<!-- Column -->

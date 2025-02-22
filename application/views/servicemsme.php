@@ -147,7 +147,7 @@ TrueandTrade is your trusted partner when it comes to simplifying the Udyam Aadh
 				<!-- Column -->
 				<div class="column col-lg-6 col-md-12 col-sm-12">
 					<h3 class="service-detail_subheading">Who can Apply for Udyam Registration?</h3>
-					<p>Any individual who intends to establish a micro, small, or medium enterprise can file for Udyog Aadhar/Udyam Registration online through the Udyam Registration portal. Eligible applicants include:</p>
+					<p>Any individual who intends to establish a micro, small or medium enterprise can file for Udyog Aadhar/Udyam Registration online through the Udyam Registration portal. Eligible applicants include:</p>
 
 				</div>
 				<!-- Column -->
@@ -169,7 +169,7 @@ TrueandTrade is your trusted partner when it comes to simplifying the Udyam Aadh
 						
 					</ul>
 
-					<p>No enterprise is permitted to file more than one Udyam Registration and MSME/Udyam Certificate. However, a single Udyam Registration can encompass multiple activities, including manufacturing, services, or both, ensuring comprehensive coverage under one registration.</p>
+					<p>No enterprise is permitted to file more than one Udyam Registration and MSME/Udyam Certificate. However, a single Udyam Registration can encompass multiple activities, including manufacturing, services or both, ensuring comprehensive coverage under one registration.</p>
 				</div>
 			</div>
 
@@ -295,7 +295,7 @@ TrueandTrade is your trusted partner when it comes to simplifying the Udyam Aadh
 						<li><i class="fa-solid fa-circle-check fa-fw"></i><span><strong>Aadhaar Number:</strong> The Aadhaar card number is required as follows:</span></li>
 						<li><i class="fa-solid fa-circle-check fa-fw"></i><span>Proprietorship Firms: Aadhaar card of the proprietor.</span></li>
 						<li><i class="fa-solid fa-circle-check fa-fw"></i><span>Partnership Firms: Aadhaar card of the managing partner.</span></li>
-						<li><i class="fa-solid fa-circle-check fa-fw"></i><span> LLPs, Companies, Cooperative Societies, or Trusts: Aadhaar card of the authorized signatory.</span></li>
+						<li><i class="fa-solid fa-circle-check fa-fw"></i><span> LLPs, Companies, Cooperative Societies or Trusts: Aadhaar card of the authorized signatory.</span></li>
 						<li><i class="fa-solid fa-circle-check fa-fw"></i><span><strong>GST Number (if applicable): </strong>The GST number is mandatory only for enterprises that require GST registration.</span></li>
 
 
@@ -326,7 +326,7 @@ TrueandTrade is your trusted partner when it comes to simplifying the Udyam Aadh
 					<h3 class="service-detail_subheading">Eligibility Criteria for Udyam Registration</h3>
 
 
-					<p>To be eligible for Udyam registration and get Udyam registration certificate, your business must fall under the category of a Micro, Small, or Medium Enterprise based on specific investment and turnover thresholds as outlined below:</p>
+					<p>To be eligible for Udyam registration and get Udyam registration certificate, your business must fall under the category of a Micro, Small or Medium Enterprise based on specific investment and turnover thresholds as outlined below:</p>
 
 
 
@@ -334,7 +334,7 @@ TrueandTrade is your trusted partner when it comes to simplifying the Udyam Aadh
 
 
 
-					<p class="mt-4">In addition to these details, you will be required to submit the following documents to complete the trademark registration online, or even logo trademark registration process:</p>
+					<p class="mt-4">In addition to these details, you will be required to submit the following documents to complete the trademark registration online or even logo trademark registration process:</p>
 
 
 
@@ -409,7 +409,7 @@ TrueandTrade is your trusted partner when it comes to simplifying the Udyam Aadh
 								<div class="acc-btn active"><div class="icon-outer"><span class="icon fa-solid fa-angle-down fa-fw"></span></div>Q: What are udyam registration fees?</div>
 								<div class="acc-content current">
 									<div class="content">
-										<p>A trademark is a distinctive marker that distinguishes products or services from competitors. It can include symbols, designs, expressions, or identifiable features associated with a specific brand.</p>
+										<p>A trademark is a distinctive marker that distinguishes products or services from competitors. It can include symbols, designs, expressions or identifiable features associated with a specific brand.</p>
 									</div>
 								</div>
 							</li>

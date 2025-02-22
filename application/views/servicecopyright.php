@@ -162,7 +162,7 @@ At True and Trade, we have streamlined the process of Copyright Registration in 
 
 						<li><i class="fa-solid fa-circle-check fa-fw"></i><span><strong>Cinematography Films:</strong> Films and related audiovisual projects enjoy the benefits of copyright protection in this category.</span></li>
 
-						<li><i class="fa-solid fa-circle-check fa-fw"></i><span><strong>Sound Recordings:</strong> Audio recordings, whether they are of music, spoken word, or other sound-driven content, are protected here.</span></li>
+						<li><i class="fa-solid fa-circle-check fa-fw"></i><span><strong>Sound Recordings:</strong> Audio recordings, whether they are of music, spoken word or other sound-driven content, are protected here.</span></li>
 
 						<li><i class="fa-solid fa-circle-check fa-fw"></i><span><strong>Computer Programs, Tables, and Compilations:</strong> The digital world's cornerstones, such as software, data tables, and compilations, receive their protection in this segment.</span></li>
 
@@ -370,7 +370,7 @@ At True and Trade, we have streamlined the process of Copyright Registration in 
 								<div class="acc-btn active"><div class="icon-outer"><span class="icon fa-solid fa-angle-down fa-fw"></span></div>Q: Can titles or names be copyrighted?</div>
 								<div class="acc-content current">
 									<div class="content">
-										<p>A copyright registration does not protect the titles or names, short words, slogans, or any phrases. Only original literary work can get copyright registration.</p>
+										<p>A copyright registration does not protect the titles or names, short words, slogans or any phrases. Only original literary work can get copyright registration.</p>
 									</div>
 								</div>
 							</li>
@@ -401,7 +401,7 @@ At True and Trade, we have streamlined the process of Copyright Registration in 
                         </div>
 								<div class="acc-content">
 									<div class="content">
-										<p>The copyright registration fees in India vary based on the type of work being registered, such as literary, artistic, musical, or cinematographic works.</p>
+										<p>The copyright registration fees in India vary based on the type of work being registered, such as literary, artistic, musical or cinematographic works.</p>
 									</div>
 								</div>
 							</li>

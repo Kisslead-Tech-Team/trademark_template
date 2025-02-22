@@ -1,4 +1,4 @@
-<?php
+ <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 ?>
 <!DOCTYPE html>
@@ -73,7 +73,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 					<!-- Column -->
 					<div class="column col-lg-6 col-md-12 col-sm-12">
 						<div class="sec-title_text">
-						Within the competitive business realm, a product is frequently distinguished by its brand name and the distinctive elements that set it apart. These elements, ranging from logos and jingles to packaging design, collectively constitute what we refer to as a trademark. In today's digital era, safeguarding your brand identity has gained even greater significance. Whether you are launching a startup, managing an established business, or embarking on the entrepreneurial path as an individual, trademark registration online remains a vital step to guarantee the uniqueness and distinctiveness of your products and services.
+						Within the competitive business realm, a product is frequently distinguished by its brand name and the distinctive elements that set it apart. These elements, ranging from logos and jingles to packaging design, collectively constitute what we refer to as a trademark. In today's digital era, safeguarding your brand identity has gained even greater significance. Whether you are launching a startup, managing an established business or embarking on the entrepreneurial path as an individual, trademark registration online remains a vital step to guarantee the uniqueness and distinctiveness of your products and services.
 						</div>
 					</div>
 				</div>
@@ -89,7 +89,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 				</div>
 				<!-- Column -->
 				<div class="column col-lg-6 col-md-12 col-sm-12">
-					<p>Following the Indian Trademarks Act of 1999 (Section 2(zb)), a trademark is a distinctive marker that distinguishes products or services from competitors in the market. It encompasses various elements such as symbols, designs, expressions, or any identifiable feature linked to a specific brand. Remarkably, trademarks are open to ownership by individuals, corporations, or legal entities, making them accessible to a broad spectrum of entities and individuals alike.</p>
+					<p>Following the Indian Trademarks Act of 1999 (Section 2(zb)), a trademark is a distinctive marker that distinguishes products or services from competitors in the market. It encompasses various elements such as symbols, designs, expressions or any identifiable feature linked to a specific brand. Remarkably, trademarks are open to ownership by individuals, corporations or legal entities, making them accessible to a broad spectrum of entities and individuals alike.</p>
 				</div>
 			</div>
 
@@ -203,7 +203,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 					<h6 class="service-detail_subheading">Collective Mark</h6>
 
 
-					<p>A collective mark conveys specific characteristics of products or services associated with a particular group. It allows individuals or entities to protect and represent goods and services collectively. The trademark holder may be an association, a public institution, or a Section 8 corporation.</p>
+					<p>A collective mark conveys specific characteristics of products or services associated with a particular group. It allows individuals or entities to protect and represent goods and services collectively. The trademark holder may be an association, a public institution or a Section 8 corporation.</p>
 				</div>
 
 				<!-- Column -->
@@ -211,7 +211,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 					<h6 class="service-detail_subheading">Certification Mark</h6>
 
 
-					<p>The owner issues these marks to indicate information about a product's origin, composition, quality, or other pertinent data. Certification marks establish product standards and assure consumers that the product meets standardized quality benchmarks. They are commonly found in packaged goods, toys, and electronics.</p>
+					<p>The owner issues these marks to indicate information about a product's origin, composition, quality or other pertinent data. Certification marks establish product standards and assure consumers that the product meets standardized quality benchmarks. They are commonly found in packaged goods, toys, and electronics.</p>
 				</div>
 
 
@@ -294,10 +294,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 
 					<ul class="service-detail_list my-5">
-						<li><i class="fa-solid fa-circle-check fa-fw"></i><span><strong>Applicant's Name: </strong>  The name of the individual, company, or entity applying for the trademark registration.</span></li>
+						<li><i class="fa-solid fa-circle-check fa-fw"></i><span><strong>Applicant's Name: </strong>  The name of the individual, company or entity applying for the trademark registration.</span></li>
 						<li><i class="fa-solid fa-circle-check fa-fw"></i><span><strong>Business Type: </strong> Specify the type of business entity, such as sole proprietorship, partnership, private limited company, etc.</span></li>
 						<li><i class="fa-solid fa-circle-check fa-fw"></i><span><strong>Business Objectives: </strong>Provide a brief description of your business objectives or activities.</span></li>
-						<li><i class="fa-solid fa-circle-check fa-fw"></i><span><strong>Brand/ Logo/ Slogan Name: </strong> Clearly mention the name, logo, or slogan that you intend to trademark.</span></li>
+						<li><i class="fa-solid fa-circle-check fa-fw"></i><span><strong>Brand/ Logo/ Slogan Name: </strong> Clearly mention the name, logo or slogan that you intend to trademark.</span></li>
 						<li><i class="fa-solid fa-circle-check fa-fw"></i><span><strong>Registration Address: </strong> Furnish the official address of the entity applying for the trademark.
 </span></li>
 
@@ -307,7 +307,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 
 
-					<p class="mt-4">In addition to these details, you will be required to submit the following documents to complete the trademark registration online, or even logo trademark registration process:</p>
+					<p class="mt-4">In addition to these details, you will be required to submit the following documents to complete the trademark registration online or even logo trademark registration process:</p>
 
 
 
@@ -383,7 +383,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 								<div class="acc-btn active"><div class="icon-outer"><span class="icon fa-solid fa-angle-down fa-fw"></span></div>Q: What is a trademark?</div>
 								<div class="acc-content current">
 									<div class="content">
-										<p>A trademark is a distinctive marker that distinguishes products or services from competitors. It can include symbols, designs, expressions, or identifiable features associated with a specific brand.</p>
+										<p>A trademark is a distinctive marker that distinguishes products or services from competitors. It can include symbols, designs, expressions or identifiable features associated with a specific brand.</p>
 									</div>
 								</div>
 							</li>

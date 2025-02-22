@@ -95,7 +95,7 @@ Reach out to our experts today and make the registration process smooth and hass
 				</div>
 				<!-- Column -->
 				<div class="column col-lg-6 col-md-12 col-sm-12">
-					<p>As per Section 2(d) of the Designs Act 2001, a design is characterized as the distinctive features encompassing shape, pattern, configuration, composition, or ornamentation formed by lines or colors. This can be applied to any article, whether two-dimensional, three-dimensional, or a combination of both. The application can be achieved through various means, including industrial processes, whether mechanical, manual, or chemical, used separately or in combination. However, the defining factor of a design is its visual appeal when viewed in the final product, solely judged by the eye. It's essential to note that the design does not consider the underlying construction principle or anything that is essentially a mere mechanical contraption.</p>
+					<p>As per Section 2(d) of the Designs Act 2001, a design is characterized as the distinctive features encompassing shape, pattern, configuration, composition or ornamentation formed by lines or colors. This can be applied to any article, whether two-dimensional, three-dimensional or a combination of both. The application can be achieved through various means, including industrial processes, whether mechanical, manual or chemical, used separately or in combination. However, the defining factor of a design is its visual appeal when viewed in the final product, solely judged by the eye. It's essential to note that the design does not consider the underlying construction principle or anything that is essentially a mere mechanical contraption.</p>
 				</div>
 			</div>
 
@@ -154,11 +154,11 @@ Reach out to our experts today and make the registration process smooth and hass
 					<ul class="service-detail_list">
 						<li><i class="fa-solid fa-circle-check fa-fw"></i><span><strong>Innovation Element:</strong> The design should possess a fresh and unique aspect. Only designs with this innovative trait are eligible for registration. Furthermore, combinations of existing designs can be considered, but only if the result presents a distinct visual appeal.</span></li>
 					
-						<li><i class="fa-solid fa-circle-check fa-fw"></i><span><strong>Originality and Non-disclosur:</strong>The design must be one-of-a-kind and not previously exposed to the public, either within India or internationally. This means it shouldn't have been previously published, used, or disclosed in any manner.</span></li>
+						<li><i class="fa-solid fa-circle-check fa-fw"></i><span><strong>Originality and Non-disclosur:</strong>The design must be one-of-a-kind and not previously exposed to the public, either within India or internationally. This means it shouldn't have been previously published, used or disclosed in any manner.</span></li>
 
 						<li><i class="fa-solid fa-circle-check fa-fw"></i><span><strong>Application to an Object:</strong> The design must be attached or applicable to a specific product or object. A standalone design, without relevance to an item, cannot be registered.</span></li>
 
-						<li><i class="fa-solid fa-circle-check fa-fw"></i><span><strong>Alignment with Public Values and National Security:</strong> The design should not be in conflict with public morals, sentiments, or the security of India. Designs deemed inappropriate by the government or other authoritative bodies won't qualify for registration. It's essential that the design can be registered under section 5 of the Design Act, 2000.<br><br>
+						<li><i class="fa-solid fa-circle-check fa-fw"></i><span><strong>Alignment with Public Values and National Security:</strong> The design should not be in conflict with public morals, sentiments or the security of India. Designs deemed inappropriate by the government or other authoritative bodies won't qualify for registration. It's essential that the design can be registered under section 5 of the Design Act, 2000.<br><br>
 
 It's important to ensure these criteria are met when seeking registration under the English language provisions of the Design Act, 2000.</span></li>
 
@@ -228,7 +228,7 @@ It's important to ensure these criteria are met when seeking registration under 
 					<h6 class="service-detail_subheading">Registration Approval</h6>
 
 
-					<p>If no objections arise, or if raised objections are successfully addressed, the Indian Design Office will bestow the design registration. A certificate confirming the registration will be provided, holding validity for a decade.</p>
+					<p>If no objections arise or if raised objections are successfully addressed, the Indian Design Office will bestow the design registration. A certificate confirming the registration will be provided, holding validity for a decade.</p>
 				</div>
 
 
@@ -259,7 +259,7 @@ It's important to ensure these criteria are met when seeking registration under 
 
 
 					<ul class="service-detail_list">
-						<li><i class="fa-solid fa-circle-check fa-fw"></i><span><strong>Applicants:</strong>  Individuals, their legal representatives, or assignees can apply either individually or jointly for design registration.</span></li>
+						<li><i class="fa-solid fa-circle-check fa-fw"></i><span><strong>Applicants:</strong>  Individuals, their legal representatives or assignees can apply either individually or jointly for design registration.</span></li>
 					
 						<li><i class="fa-solid fa-circle-check fa-fw"></i><span><strong>Definition of Person:</strong>The term "person" encompasses a variety of entities, including firms, partnerships, small entities, and corporate bodies.</span></li>
 
@@ -360,7 +360,7 @@ It's important to ensure these criteria are met when seeking registration under 
 								<div class="acc-btn"><div class="icon-outer"><span class="icon fa-solid fa-angle-down fa-fw"></span></div>Q: What are the key requirements for design registration?</div>
 								<div class="acc-content">
 									<div class="content">
-										<p>The design must be new, original, not disclosed to the public before, applicable to a product, and should not violate public order or morality.</p>
+										<p>The design must be new original, not disclosed to the public before, applicable to a product, and should not violate public order or morality.</p>
 									</div>
 								</div>
 							</li>
